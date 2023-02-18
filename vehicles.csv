@@ -1,0 +1,1901 @@
+city_mpg,class,combination_mpg,cylinders,displacement,fuel_type,highway_mpg,transmission,year
+19,two seater,21,4,2,gas,25,m,1985
+9,two seater,11,12,4.9,gas,14,m,1985
+23,subcompact car,27,4,2.2,gas,33,m,1985
+10,van,11,8,5.2,gas,12,a,1985
+12,van,13,8,5.2,gas,15,a,1985
+11,van,13,8,5.2,gas,17,m,1985
+11,van,13,8,5.2,gas,17,m,1985
+9,van,10,8,5.9,gas,11,a,1985
+10,van,10,8,5.2,gas,11,a,1985
+10,van,10,8,5.2,gas,11,a,1985
+9,van,10,8,5.9,gas,10,a,1985
+12,van,13,6,4.9,gas,15,a,1985
+13,van,14,6,4.9,gas,17,a,1985
+18,subcompact car,21,4,2.2,gas,27,m,1985
+15,van,16,6,4.9,gas,17,m,1985
+11,van,12,8,5,gas,14,a,1985
+10,van,11,8,5.8,gas,12,a,1985
+14,van,15,6,4.3,gas,16,a,1985
+15,van,16,6,4.3,gas,17,a,1985
+14,van,15,6,4.3,gas,17,m,1985
+11,van,12,8,5,gas,12,a,1985
+12,van,14,8,5,gas,16,a,1985
+11,van,13,8,5.7,gas,16,a,1985
+17,subcompact car,20,4,2.2,gas,26,m,1985
+10,van,11,8,5.7,gas,12,a,1985
+18,van,20,4,2.5,gas,24,a,1985
+19,van,21,4,2.5,gas,24,m,1985
+19,van,22,4,2.5,gas,26,m,1985
+15,van,17,6,4.3,gas,20,a,1985
+15,van,16,6,4.3,gas,19,m,1985
+15,van,17,6,4.3,gas,20,m,1985
+19,van,20,4,2,gas,22,a,1985
+20,van,21,4,2,gas,23,m,1985
+26,subcompact car,27,4,1.5,gas,29,a,1985
+15,van,16,4,1.9,gas,17,a,1985
+16,van,17,4,1.9,gas,18,m,1985
+16,special purpose vehicle,16,4,2.5,gas,17,a,1985
+13,special purpose vehicle,13,6,4.2,gas,13,a,1985
+12,special purpose vehicle,14,8,5,gas,16,a,1985
+11,special purpose vehicle,13,8,5.7,gas,16,a,1985
+18,special purpose vehicle,20,4,2.5,gas,24,a,1985
+19,special purpose vehicle,21,4,2.5,gas,24,m,1985
+19,special purpose vehicle,22,4,2.5,gas,26,m,1985
+31,subcompact car,34,4,1.5,gas,37,m,1985
+15,special purpose vehicle,18,6,2.8,gas,23,a,1985
+16,special purpose vehicle,19,6,2.8,gas,23,m,1985
+15,special purpose vehicle,18,6,2.8,gas,22,m,1985
+11,special purpose vehicle,11,8,5.2,gas,12,a,1985
+11,special purpose vehicle,12,8,5.2,gas,13,a,1985
+12,special purpose vehicle,13,8,5.2,gas,15,a,1985
+19,two seater,21,4,2,gas,26,m,1986
+15,two seater,17,8,4.9,gas,21,m,1986
+20,two seater,22,4,1.5,gas,26,m,1986
+15,two seater,18,8,5.7,gas,22,a,1986
+15,two seater,18,8,5.7,gas,22,m,1986
+15,two seater,18,8,5.7,gas,22,a,1986
+15,two seater,18,8,5.7,gas,22,m,1986
+16,two seater,19,6,3,gas,23,a,1986
+15,two seater,18,6,3,gas,23,a,1986
+16,two seater,19,6,3,gas,23,m,1986
+16,two seater,19,6,3,gas,24,m,1986
+9,two seater,11,12,4.9,gas,14,m,1986
+11,two seater,13,8,3.2,gas,17,m,1986
+21,two seater,23,4,1.9,gas,26,a,1986
+23,two seater,26,4,1.9,gas,31,m,1986
+19,two seater,22,4,1.9,gas,26,a,1986
+22,two seater,25,4,1.9,gas,30,m,1986
+25,two seater,28,4,1.5,gas,32,a,1986
+26,two seater,29,4,1.5,gas,33,m,1986
+26,two seater,27,4,1.5,gas,30,m,1986
+42,two seater,46,4,1.5,gas,51,m,1986
+37,two seater,40,4,1.5,gas,45,m,1986
+6,two seater,7,12,5.2,gas,10,m,1986
+12,two seater,13,6,2.5,gas,14,a,1986
+12,two seater,14,8,5.6,gas,16,a,1986
+19,two seater,20,4,2.3,gas,22,a,1986
+19,two seater,21,4,2.3,gas,24,m,1986
+22,two seater,25,4,2.5,gas,29,a,1986
+21,two seater,25,4,2.5,gas,32,m,1986
+16,two seater,19,6,2.8,gas,23,a,1986
+17,two seater,20,6,2.8,gas,24,m,1986
+16,two seater,19,6,2.8,gas,25,m,1986
+22,two seater,25,4,1.8,gas,29,m,1986
+11,two seater,12,8,5,gas,14,a,1986
+22,two seater,25,4,1.6,gas,29,a,1986
+23,two seater,25,4,1.6,gas,28,m,1986
+15,two seater,18,6,2.8,gas,22,a,1986
+15,two seater,18,6,2.8,gas,22,a,1986
+17,minicompact car,19,6,2.5,gas,24,m,1986
+34,minicompact car,35,3,1,gas,38,a,1986
+37,minicompact car,40,3,1,gas,45,m,1986
+44,minicompact car,48,3,1,gas,53,m,1986
+11,minicompact car,13,8,3.2,gas,17,m,1986
+12,minicompact car,13,6,2.5,gas,14,a,1986
+15,minicompact car,18,2,1.3,gas,22,a,1986
+34,minicompact car,35,3,1,gas,38,a,1986
+37,minicompact car,40,3,1,gas,45,m,1986
+15,minicompact car,18,6,3.2,gas,23,m,1986
+15,minicompact car,17,6,3.3,gas,20,m,1986
+15,minicompact car,17,8,5,gas,21,a,1986
+8,subcompact car,9,8,5.3,gas,10,a,1987
+8,subcompact car,9,8,5.3,gas,10,a,1987
+8,subcompact car,9,8,5.3,gas,10,m,1987
+15,subcompact car,18,8,5,gas,24,m,1987
+15,subcompact car,18,8,5,gas,24,m,1987
+18,small pickup truck,20,4,2.2,gas,23,a,1987
+18,small pickup truck,21,4,2.2,gas,24,m,1987
+20,small pickup truck,22,4,2,gas,25,m,1987
+18,small pickup truck,20,4,2.2,gas,23,a,1987
+19,small pickup truck,20,4,2.2,gas,23,m,1987
+18,small pickup truck,21,4,2.2,gas,24,m,1987
+16,small pickup truck,17,4,2.6,gas,20,a,1987
+16,small pickup truck,18,4,2.6,gas,22,m,1987
+14,small pickup truck,16,4,2.6,gas,19,m,1987
+15,small pickup truck,15,4,2.6,gas,16,a,1987
+14,small pickup truck,16,4,2.6,gas,19,m,1987
+12,standard pickup truck,12,8,5,gas,13,a,1987
+19,two seater,21,4,2,gas,25,m,1987
+15,two seater,17,8,5,gas,21,m,1987
+20,two seater,22,4,1.5,gas,26,m,1987
+15,two seater,17,8,4.1,gas,22,a,1987
+15,two seater,17,8,5.7,gas,23,a,1987
+15,two seater,17,8,5.7,gas,23,a,1987
+15,two seater,17,4,2.5,gas,19,m,1987
+15,two seater,17,4,2.5,gas,19,m,1987
+15,two seater,18,6,3,gas,22,a,1987
+16,two seater,19,6,3,gas,24,a,1987
+16,two seater,18,6,3,gas,23,m,1987
+16,two seater,18,6,3,gas,22,m,1987
+9,two seater,11,12,4.9,gas,14,m,1987
+11,two seater,13,8,3.2,gas,17,m,1987
+23,two seater,25,4,1.9,gas,29,a,1987
+24,two seater,28,4,1.9,gas,34,m,1987
+22,two seater,25,4,1.9,gas,31,m,1987
+25,two seater,27,4,1.5,gas,31,a,1987
+26,two seater,29,4,1.5,gas,33,m,1987
+26,two seater,27,4,1.5,gas,30,m,1987
+42,two seater,46,4,1.5,gas,51,m,1987
+37,two seater,40,4,1.5,gas,45,m,1987
+12,two seater,14,12,5.3,gas,16,a,1987
+6,two seater,7,12,5.2,gas,10,m,1987
+16,two seater,19,4,2.2,gas,24,m,1987
+16,two seater,19,4,2.2,gas,24,m,1987
+12,two seater,13,6,2.5,gas,14,a,1987
+12,two seater,14,6,2.5,gas,16,m,1987
+15,two seater,17,2,1.3,gas,21,a,1987
+15,two seater,18,2,1.3,gas,22,m,1987
+15,two seater,17,2,1.3,gas,21,m,1987
+12,two seater,14,8,5.6,gas,16,a,1987
+21,two seater,24,4,2.5,gas,29,a,1987
+17,two seater,19,4,2.2,gas,21,a,1988
+18,compact car,21,4,2.3,gas,26,m,1988
+18,compact car,21,4,2.3,gas,26,m,1988
+15,midsize-large station wagon,18,6,3.8,gas,23,a,1988
+15,midsize-large station wagon,18,6,3.8,gas,23,a,1988
+12,standard pickup truck,13,8,5,gas,16,m,1988
+11,standard pickup truck,13,8,5,gas,15,m,1988
+11,special purpose vehicle,13,8,5,gas,15,m,1988
+19,two seater,21,4,2,gas,25,m,1988
+12,two seater,15,8,4.9,gas,20,m,1988
+20,two seater,22,4,1.5,gas,26,m,1988
+17,two seater,20,6,3.8,gas,26,a,1988
+15,two seater,17,8,4.1,gas,22,a,1988
+15,two seater,18,8,5.7,gas,23,a,1988
+15,two seater,18,8,5.7,gas,22,m,1988
+15,two seater,18,8,5.7,gas,23,a,1988
+15,two seater,18,8,5.7,gas,22,m,1988
+15,two seater,18,6,3,gas,22,a,1988
+16,two seater,19,6,3,gas,24,a,1988
+15,two seater,18,6,3,gas,23,m,1988
+15,two seater,18,6,3,gas,23,m,1988
+9,two seater,11,12,4.9,gas,14,m,1988
+11,two seater,13,8,3.2,gas,17,m,1988
+21,two seater,24,4,1.9,gas,28,a,1988
+23,two seater,26,4,1.9,gas,31,m,1988
+24,two seater,28,4,1.9,gas,33,m,1988
+26,two seater,29,4,1.5,gas,33,a,1988
+29,two seater,32,4,1.5,gas,35,m,1988
+25,two seater,28,4,1.6,gas,33,m,1988
+41,two seater,44,4,1.5,gas,49,m,1988
+37,two seater,41,4,1.5,gas,47,m,1988
+11,two seater,13,12,5.3,gas,16,a,1988
+6,two seater,7,12,5.2,gas,10,m,1988
+15,two seater,18,4,2.2,gas,25,m,1988
+17,two seater,19,4,2.2,gas,22,a,1988
+15,two seater,17,2,1.3,gas,21,a,1988
+15,two seater,17,2,1.3,gas,21,m,1988
+15,two seater,18,2,1.3,gas,22,m,1988
+12,two seater,14,8,5.6,gas,16,a,1988
+19,two seater,20,4,2.3,gas,22,a,1988
+18,two seater,20,4,2.3,gas,24,m,1988
+21,two seater,24,4,2.5,gas,28,a,1988
+21,two seater,25,4,2.5,gas,32,m,1988
+16,two seater,18,6,2.8,gas,22,a,1988
+15,two seater,19,6,2.8,gas,25,m,1988
+19,two seater,23,4,2,gas,31,m,1988
+11,two seater,13,6,3.4,gas,18,m,1988
+22,two seater,25,4,1.8,gas,29,m,1988
+22,two seater,24,4,1.6,gas,28,a,1988
+19,two seater,22,4,1.6,gas,25,a,1988
+15,small pickup truck,17,6,2.9,gas,19,a,1989
+15,small pickup truck,16,6,2.9,gas,18,a,1989
+15,special purpose vehicle,17,6,2.9,gas,19,a,1989
+19,two seater,21,4,2,gas,25,m,1989
+20,two seater,22,4,1.5,gas,26,m,1989
+17,two seater,20,6,3.8,gas,26,a,1989
+14,two seater,16,8,4.5,gas,21,a,1989
+15,two seater,18,8,5.7,gas,23,a,1989
+15,two seater,18,8,5.7,gas,23,m,1989
+15,two seater,18,8,5.7,gas,23,a,1989
+15,two seater,18,8,5.7,gas,23,m,1989
+16,two seater,18,4,2.2,gas,20,a,1989
+16,two seater,19,4,2.2,gas,23,m,1989
+15,two seater,17,4,2.5,gas,20,a,1989
+15,two seater,17,4,2.5,gas,20,a,1989
+16,two seater,19,6,3,gas,24,a,1989
+15,two seater,18,6,3,gas,22,a,1989
+15,two seater,18,6,3,gas,23,m,1989
+15,two seater,18,6,3,gas,23,m,1989
+15,two seater,16,6,2.9,gas,17,a,1989
+17,two seater,19,8,5.7,gas,24,m,1989
+9,two seater,11,12,4.9,gas,14,m,1989
+11,two seater,14,8,3.2,gas,17,m,1989
+11,two seater,14,8,3.4,gas,18,m,1989
+25,two seater,28,4,1.5,gas,33,a,1989
+29,two seater,32,4,1.5,gas,37,m,1989
+24,two seater,26,4,1.6,gas,30,m,1989
+41,two seater,44,4,1.5,gas,49,m,1989
+37,two seater,41,4,1.5,gas,47,m,1989
+11,two seater,13,12,5.3,gas,15,a,1989
+11,two seater,13,12,5.3,gas,15,a,1989
+6,two seater,7,12,5.2,gas,10,m,1989
+16,two seater,17,4,2.2,gas,19,m,1989
+15,two seater,19,4,2.2,gas,25,m,1989
+15,two seater,19,4,2.2,gas,26,m,1989
+13,two seater,14,6,2.8,gas,16,a,1989
+14,two seater,15,6,2.8,gas,19,m,1989
+14,two seater,15,6,2.8,gas,17,a,1989
+14,two seater,15,6,2.8,gas,19,m,1989
+15,two seater,17,2,1.3,gas,21,a,1989
+15,two seater,18,2,1.3,gas,23,m,1989
+15,two seater,17,2,1.3,gas,22,m,1989
+12,two seater,14,8,5.6,gas,16,a,1989
+21,two seater,23,4,1.8,gas,26,m,1989
+22,two seater,24,4,1.6,gas,28,a,1989
+19,two seater,22,4,1.6,gas,25,a,1989
+21,two seater,23,4,1.6,gas,27,m,1989
+23,two seater,25,4,1.6,gas,29,m,1989
+11,minicompact car,14,8,3.2,gas,17,m,1989
+14,minicompact car,15,6,2.8,gas,19,m,1989
+28,two seater,30,3,1,gas,33,a,1990
+34,two seater,37,3,1,gas,41,m,1990
+21,minicompact car,23,4,1.3,gas,27,m,1990
+17,compact car,19,4,2.3,gas,21,a,1990
+18,compact car,21,4,2.3,gas,25,m,1990
+17,compact car,19,4,2.3,gas,23,a,1990
+19,compact car,21,4,2.3,gas,26,m,1990
+12,midsize car,13,8,4.2,gas,15,a,1990
+18,midsize car,20,4,2.3,gas,23,a,1990
+18,midsize car,20,4,2.3,gas,24,m,1990
+17,midsize-large station wagon,19,4,2.3,gas,23,a,1990
+17,midsize-large station wagon,19,4,2.3,gas,21,a,1990
+18,midsize-large station wagon,20,4,2.3,gas,24,m,1990
+19,midsize-large station wagon,21,4,2.3,gas,25,m,1990
+18,midsize-large station wagon,20,4,2.3,gas,23,a,1990
+18,midsize-large station wagon,20,4,2.3,gas,24,m,1990
+18,small pickup truck,20,4,2.3,gas,22,a,1990
+15,small pickup truck,17,6,2.9,gas,20,a,1990
+15,standard pickup truck,15,6,4.9,gas,17,m,1990
+15,standard pickup truck,15,6,4.9,gas,17,m,1990
+13,van,13,6,4.9,gas,14,a,1990
+15,van,17,6,4.3,gas,20,a,1990
+20,two seater,23,4,2,gas,28,m,1990
+16,two seater,19,6,3.8,gas,25,a,1990
+14,two seater,16,8,4.5,gas,20,a,1990
+13,two seater,15,8,5.7,gas,20,m,1990
+15,two seater,17,8,5.7,gas,23,m,1990
+15,two seater,17,8,5.7,gas,22,a,1990
+15,two seater,18,8,5.7,gas,23,m,1990
+16,two seater,18,4,2.2,gas,23,m,1990
+15,two seater,18,6,3,gas,22,a,1990
+18,two seater,21,4,2.2,gas,24,m,1990
+17,two seater,19,6,3,gas,22,a,1990
+16,two seater,18,6,3,gas,22,a,1990
+16,two seater,18,6,3,gas,22,m,1990
+16,two seater,18,6,3,gas,22,m,1990
+17,two seater,19,8,5.7,gas,24,m,1990
+11,two seater,13,8,2.9,gas,16,m,1990
+9,two seater,11,12,4.9,gas,14,m,1990
+12,two seater,14,8,3.4,gas,17,m,1990
+25,two seater,28,4,1.5,gas,32,a,1990
+27,two seater,29,4,1.5,gas,32,m,1990
+24,two seater,27,4,1.6,gas,30,m,1990
+40,two seater,43,4,1.5,gas,47,m,1990
+36,two seater,39,4,1.5,gas,44,m,1990
+11,two seater,13,12,5.3,gas,16,a,1990
+6,two seater,7,12,5.2,gas,10,m,1990
+8,two seater,10,12,5.7,gas,13,m,1990
+15,two seater,19,4,2.2,gas,25,m,1990
+13,two seater,14,6,2.8,gas,16,a,1990
+11,two seater,13,8,5.6,gas,15,a,1991
+11,two seater,13,8,5.6,gas,15,a,1991
+15,subcompact car,16,4,2.3,gas,17,a,1991
+15,subcompact car,16,4,2.3,gas,17,a,1991
+15,subcompact car,16,4,2.3,gas,17,a,1991
+15,subcompact car,16,4,2.3,gas,17,a,1991
+13,compact car,14,6,2.9,gas,15,m,1991
+11,compact car,13,8,5.6,gas,15,a,1991
+11,compact car,13,8,5.6,gas,15,a,1991
+11,compact car,13,8,5.6,gas,15,a,1991
+14,midsize car,15,6,2.5,gas,17,a,1991
+11,midsize car,13,8,5.6,gas,15,a,1991
+11,midsize car,13,8,5.6,gas,15,a,1991
+15,midsize-large station wagon,16,4,2.3,gas,17,a,1991
+15,midsize-large station wagon,16,4,2.3,gas,17,a,1991
+13,special purpose vehicle,14,6,3.1,gas,16,a,1991
+14,special purpose vehicle,15,6,3.1,gas,18,m,1991
+16,two seater,18,6,3,gas,22,a,1991
+16,two seater,18,6,3,gas,22,m,1991
+19,two seater,21,4,2,gas,23,a,1991
+19,two seater,22,4,2,gas,27,m,1991
+16,two seater,19,6,3.8,gas,25,a,1991
+14,two seater,16,8,4.5,gas,20,a,1991
+13,two seater,15,8,5.7,gas,20,m,1991
+15,two seater,17,8,5.7,gas,23,m,1991
+15,two seater,17,8,5.7,gas,22,a,1991
+15,two seater,18,8,5.7,gas,24,m,1991
+16,two seater,18,6,3,gas,22,a,1991
+18,two seater,21,4,2.2,gas,24,m,1991
+17,two seater,19,6,3,gas,22,a,1991
+16,two seater,18,6,3,gas,22,a,1991
+16,two seater,18,6,3,gas,22,m,1991
+16,two seater,18,6,3,gas,22,m,1991
+17,two seater,19,8,5.7,gas,24,m,1991
+11,two seater,13,8,2.9,gas,16,m,1991
+9,two seater,11,12,4.9,gas,14,m,1991
+12,two seater,14,8,3.4,gas,17,m,1991
+28,two seater,30,3,1,gas,33,a,1991
+34,two seater,37,3,1,gas,41,m,1991
+9,two seater,11,12,4.9,gas,14,m,1991
+12,two seater,14,6,3.6,gas,19,m,1991
+12,two seater,13,8,5,gas,15,a,1991
+16,two seater,18,6,2.5,gas,22,m,1991
+25,two seater,27,4,1.5,gas,31,a,1991
+27,two seater,29,4,1.5,gas,33,m,1991
+24,two seater,27,4,1.6,gas,30,m,1991
+40,two seater,43,4,1.5,gas,47,m,1991
+36,two seater,39,4,1.5,gas,44,m,1991
+14,two seater,15,6,3,gas,17,a,1991
+11,two seater,13,12,5.3,gas,16,a,1991
+13,two seater,16,8,4.9,gas,20,m,1992
+11,two seater,14,10,8,gas,20,m,1992
+15,two seater,17,6,2.9,gas,21,m,1992
+14,two seater,15,6,3,gas,16,a,1992
+14,two seater,15,6,3,gas,16,a,1992
+9,two seater,11,12,4.9,gas,15,m,1992
+9,two seater,11,12,4.9,gas,14,m,1992
+21,subcompact car,23,4,1.7,gas,26,m,1992
+19,subcompact car,22,4,1.8,gas,27,m,1992
+16,subcompact car,19,6,2.5,gas,23,a,1992
+16,subcompact car,19,6,2.5,gas,24,m,1992
+17,subcompact car,19,4,2.3,gas,22,m,1992
+17,subcompact car,19,4,2.3,gas,22,m,1992
+11,subcompact car,13,12,5,gas,17,a,1992
+10,subcompact car,13,12,5,gas,17,m,1992
+15,compact car,18,6,2.5,gas,23,a,1992
+15,compact car,18,6,2.5,gas,23,m,1992
+14,compact car,15,6,2.5,gas,17,a,1992
+9,compact car,10,12,4.9,gas,13,m,1992
+11,compact car,13,8,5.6,gas,15,a,1992
+11,compact car,13,8,5.6,gas,15,a,1992
+11,compact car,13,8,5.6,gas,15,a,1992
+13,midsize car,15,6,3,gas,19,m,1992
+13,midsize car,15,6,3,gas,19,a,1992
+14,midsize car,15,6,3,gas,16,a,1992
+14,midsize car,15,6,3,gas,16,a,1992
+12,midsize car,14,6,3.4,gas,18,a,1992
+12,midsize car,14,6,3.4,gas,18,a,1992
+12,midsize car,14,6,3.4,gas,18,a,1992
+12,midsize car,14,6,3.4,gas,18,a,1992
+12,midsize car,14,6,3.4,gas,18,a,1992
+14,midsize car,15,6,3,gas,16,a,1992
+14,midsize car,15,6,3,gas,16,a,1992
+14,midsize car,15,6,3,gas,16,a,1992
+14,midsize car,15,6,3,gas,16,a,1992
+11,midsize car,13,8,5.6,gas,15,a,1992
+11,midsize car,13,8,5.6,gas,15,a,1992
+14,large car,15,6,3,gas,16,a,1992
+11,large car,12,12,6,gas,14,a,1992
+16,small station wagon,18,6,2.8,gas,20,a,1992
+15,small station wagon,18,6,2.5,gas,23,a,1992
+13,small station wagon,15,6,3,gas,19,a,1992
+14,midsize-large station wagon,15,6,3,gas,16,a,1992
+14,midsize-large station wagon,15,6,3,gas,16,a,1992
+17,midsize-large station wagon,18,4,2.2,gas,19,a,1992
+16,midsize-large station wagon,18,4,2.2,gas,21,m,1992
+15,standard pickup truck,16,6,4.3,gas,19,m,1992
+16,two seater,19,6,3,gas,22,a,1992
+17,two seater,19,6,3,gas,22,m,1992
+19,two seater,21,4,2,gas,23,a,1992
+17,compact car,19,4,2.2,gas,23,m,1993
+21,compact car,22,4,1.8,gas,24,a,1993
+22,compact car,25,4,1.8,gas,29,m,1993
+23,compact car,24,4,1.6,gas,26,a,1993
+23,compact car,26,4,1.6,gas,31,m,1993
+23,compact car,25,4,1.8,gas,30,a,1993
+23,compact car,26,4,1.8,gas,30,m,1993
+18,compact car,21,4,2,gas,26,a,1993
+21,compact car,24,4,2,gas,29,m,1993
+18,compact car,21,4,2,gas,26,a,1993
+20,compact car,23,4,2,gas,28,m,1993
+18,compact car,20,4,2.3,gas,23,a,1993
+19,compact car,21,4,2.3,gas,26,m,1993
+17,midsize car,19,6,2.8,gas,22,a,1993
+17,midsize car,19,6,2.8,gas,24,m,1993
+14,midsize car,16,8,4,gas,20,a,1993
+14,midsize car,16,8,4,gas,20,a,1993
+11,midsize car,13,12,5,gas,17,a,1993
+21,midsize car,23,4,2.2,gas,28,a,1993
+17,midsize car,19,6,3.3,gas,24,a,1993
+18,midsize car,21,6,3.3,gas,26,a,1993
+17,midsize car,20,6,3.1,gas,25,a,1993
+17,midsize car,20,6,3.1,gas,27,a,1993
+17,midsize car,20,6,3.8,gas,26,a,1993
+17,midsize car,20,6,3.8,gas,25,a,1993
+15,midsize car,18,8,4.6,gas,23,a,1993
+15,midsize car,17,8,4.9,gas,23,a,1993
+15,midsize car,18,8,4.6,gas,23,a,1993
+15,midsize car,17,8,4.9,gas,23,a,1993
+18,midsize car,21,4,2.2,gas,26,a,1993
+17,midsize car,20,6,3.1,gas,25,a,1993
+17,midsize car,20,6,3.1,gas,27,a,1993
+15,midsize car,18,6,3.4,gas,24,a,1993
+15,midsize car,18,6,3.4,gas,24,m,1993
+18,midsize car,20,6,3.3,gas,24,a,1993
+13,midsize car,15,6,3,gas,19,m,1993
+13,midsize car,15,6,3,gas,19,a,1993
+17,midsize car,19,6,3,gas,23,a,1993
+17,midsize car,19,6,3,gas,24,a,1993
+18,midsize car,20,6,3,gas,24,m,1993
+18,midsize car,21,4,2.5,gas,24,a,1993
+18,midsize car,21,6,3,gas,26,a,1993
+18,midsize car,20,6,3.3,gas,24,a,1993
+19,midsize car,21,4,2.5,gas,24,a,1993
+21,midsize car,23,4,2.5,gas,26,a,1993
+22,midsize car,25,4,2.5,gas,29,m,1993
+18,midsize car,20,6,3,gas,24,a,1993
+18,midsize car,21,6,3,gas,26,a,1993
+18,midsize car,21,6,3,gas,27,a,1993
+16,midsize car,19,6,3,gas,24,m,1993
+16,two seater,18,6,3,gas,22,a,1994
+17,two seater,19,6,3,gas,22,m,1994
+19,two seater,22,4,2,gas,27,m,1994
+15,two seater,18,8,5.7,gas,23,m,1994
+15,two seater,18,8,5.7,gas,22,a,1994
+15,two seater,18,8,5.7,gas,24,m,1994
+16,two seater,18,6,3,gas,22,a,1994
+16,two seater,18,6,3,gas,22,a,1994
+16,two seater,18,6,3,gas,22,m,1994
+16,two seater,18,6,3,gas,22,m,1994
+12,two seater,15,10,8,gas,20,m,1994
+12,two seater,14,8,3.4,gas,17,m,1994
+11,two seater,13,8,3.4,gas,17,m,1994
+10,two seater,11,12,4.9,gas,15,m,1994
+25,two seater,28,4,1.5,gas,33,a,1994
+30,two seater,33,4,1.5,gas,37,m,1994
+23,two seater,26,4,1.6,gas,30,a,1994
+25,two seater,28,4,1.6,gas,32,m,1994
+23,two seater,25,4,1.6,gas,28,m,1994
+13,two seater,15,6,4,gas,19,a,1994
+15,two seater,19,4,2.2,gas,25,m,1994
+20,two seater,22,4,1.8,gas,26,a,1994
+19,two seater,21,4,1.8,gas,25,m,1994
+16,two seater,18,2,1.3,gas,22,a,1994
+15,two seater,18,2,1.3,gas,23,m,1994
+15,two seater,18,6,3.2,gas,22,a,1994
+14,two seater,16,8,5,gas,19,a,1994
+11,two seater,13,12,6,gas,16,a,1994
+15,two seater,17,6,3.6,gas,22,a,1994
+15,two seater,18,6,3.6,gas,23,m,1994
+14,two seater,16,6,3.6,gas,21,m,1994
+15,two seater,18,4,3,gas,23,a,1994
+15,two seater,18,4,3,gas,24,m,1994
+18,two seater,20,4,2,gas,25,m,1994
+19,two seater,22,4,2.2,gas,27,a,1994
+19,two seater,22,4,2.2,gas,26,m,1994
+16,minicompact car,19,6,2.8,gas,24,a,1994
+18,minicompact car,21,4,1.8,gas,26,a,1994
+19,minicompact car,22,4,1.8,gas,29,m,1994
+18,minicompact car,20,6,2.5,gas,26,a,1994
+17,minicompact car,20,6,2.5,gas,26,m,1994
+20,minicompact car,21,4,1.6,gas,24,a,1994
+21,minicompact car,23,4,1.6,gas,26,m,1994
+22,minicompact car,24,4,1.6,gas,28,m,1994
+16,minicompact car,18,6,3.2,gas,21,a,1994
+15,minicompact car,17,6,3.6,gas,22,a,1994
+14,minicompact car,16,6,3.6,gas,21,m,1994
+15,minicompact car,18,6,3.6,gas,23,m,1994
+12,minicompact car,14,6,3.6,gas,20,m,1994
+14,minicompact car,15,8,5.4,gas,17,a,1994
+16,two seater,18,6,3,gas,22,a,1995
+16,two seater,18,6,3,gas,22,m,1995
+15,two seater,18,8,5.7,gas,23,m,1995
+15,two seater,18,8,5.7,gas,23,a,1995
+15,two seater,18,8,5.7,gas,24,m,1995
+16,two seater,18,6,3,gas,22,a,1995
+16,two seater,18,6,3,gas,22,a,1995
+17,two seater,19,6,3,gas,22,m,1995
+16,two seater,18,6,3,gas,22,m,1995
+11,two seater,14,10,8,gas,20,m,1995
+9,two seater,11,8,3.5,gas,14,m,1995
+7,two seater,8,12,4.7,gas,10,m,1995
+10,two seater,11,12,4.9,gas,15,m,1995
+11,two seater,13,8,3.4,gas,17,m,1995
+25,two seater,28,4,1.5,gas,33,a,1995
+30,two seater,33,4,1.5,gas,37,m,1995
+23,two seater,26,4,1.6,gas,31,a,1995
+23,two seater,24,4,1.6,gas,27,m,1995
+25,two seater,28,4,1.6,gas,32,m,1995
+8,two seater,10,12,5.7,gas,13,m,1995
+8,two seater,10,12,5.7,gas,13,m,1995
+15,two seater,19,4,2.2,gas,25,m,1995
+19,two seater,22,4,1.8,gas,26,a,1995
+21,two seater,23,4,1.8,gas,27,m,1995
+15,two seater,18,2,1.3,gas,22,a,1995
+15,two seater,18,2,1.3,gas,23,m,1995
+15,two seater,18,6,3.2,gas,22,a,1995
+15,two seater,16,8,5,gas,20,a,1995
+12,two seater,13,12,6,gas,16,a,1995
+18,two seater,22,8,5,gas,30,m,1995
+15,two seater,18,4,3,gas,23,a,1995
+15,two seater,18,4,3,gas,24,m,1995
+18,two seater,20,4,2,gas,25,m,1995
+19,two seater,22,4,2.2,gas,27,a,1995
+19,two seater,22,4,2.2,gas,26,m,1995
+16,minicompact car,19,6,2.8,gas,24,a,1995
+17,minicompact car,19,6,2.8,gas,24,a,1995
+18,minicompact car,21,4,1.8,gas,26,a,1995
+19,minicompact car,22,4,1.8,gas,29,m,1995
+18,minicompact car,20,6,2.5,gas,26,a,1995
+17,minicompact car,20,6,2.5,gas,26,m,1995
+18,minicompact car,20,4,2.4,gas,24,a,1995
+19,minicompact car,22,4,2.4,gas,26,m,1995
+16,minicompact car,18,6,3.2,gas,21,a,1995
+15,minicompact car,18,6,3.6,gas,22,a,1995
+15,minicompact car,17,6,3.6,gas,22,m,1995
+15,minicompact car,18,6,3.6,gas,23,m,1995
+14,minicompact car,15,8,5.4,gas,17,a,1995
+11,minicompact car,13,8,5.4,gas,17,m,1995
+15,minicompact car,18,4,3,gas,23,a,1995
+16,two seater,18,6,3,gas,22,a,1996
+16,two seater,18,6,3,gas,22,m,1996
+20,two seater,23,4,1.9,gas,29,a,1996
+20,two seater,23,4,1.9,gas,29,m,1996
+15,two seater,18,8,5.7,gas,23,a,1996
+15,two seater,18,8,5.7,gas,24,m,1996
+16,two seater,18,6,3,gas,22,a,1996
+16,two seater,18,6,3,gas,22,a,1996
+17,two seater,19,6,3,gas,22,m,1996
+16,two seater,18,6,3,gas,22,m,1996
+11,two seater,14,10,8,gas,20,m,1996
+9,two seater,11,8,3.5,gas,14,m,1996
+25,two seater,28,4,1.6,gas,33,a,1996
+24,two seater,27,4,1.6,gas,32,a,1996
+23,two seater,25,4,1.6,gas,27,m,1996
+29,two seater,32,4,1.6,gas,35,m,1996
+26,two seater,28,4,1.6,gas,33,m,1996
+8,two seater,10,12,5.7,gas,13,m,1996
+19,two seater,22,4,1.8,gas,26,a,1996
+21,two seater,23,4,1.8,gas,26,m,1996
+15,two seater,18,6,3.2,gas,22,a,1996
+15,two seater,17,8,5,gas,22,a,1996
+12,two seater,14,12,6,gas,19,a,1996
+22,two seater,24,4,1.6,gas,26,m,1996
+21,two seater,22,4,1.6,gas,25,a,1996
+22,two seater,24,4,1.6,gas,26,m,1996
+7,two seater,9,12,5.7,gas,12,m,1996
+17,minicompact car,19,6,2.8,gas,22,a,1996
+19,minicompact car,22,4,1.9,gas,28,a,1996
+20,minicompact car,23,4,1.9,gas,29,m,1996
+18,minicompact car,20,6,2.8,gas,24,a,1996
+18,minicompact car,21,6,2.8,gas,26,m,1996
+18,minicompact car,20,4,2.4,gas,24,a,1996
+19,minicompact car,22,4,2.4,gas,26,m,1996
+16,minicompact car,18,6,4,gas,22,a,1996
+18,minicompact car,20,4,2,gas,24,a,1996
+20,minicompact car,23,4,2,gas,29,m,1996
+18,minicompact car,20,4,2.4,gas,26,a,1996
+19,minicompact car,22,4,2.4,gas,27,m,1996
+15,minicompact car,18,6,3.6,gas,22,a,1996
+15,minicompact car,17,6,3.6,gas,21,m,1996
+15,minicompact car,18,6,3.6,gas,23,m,1996
+11,minicompact car,14,6,3.6,gas,17,m,1996
+18,minicompact car,21,4,2.2,gas,26,a,1996
+19,minicompact car,22,4,2.2,gas,26,m,1996
+24,minicompact car,27,4,1.5,gas,31,a,1996
+26,minicompact car,28,4,1.5,gas,32,m,1996
+16,minicompact car,18,6,3,gas,22,a,1996
+16,minicompact car,19,6,3,gas,23,a,1996
+16,minicompact car,18,6,3,gas,22,m,1996
+20,two seater,23,4,1.9,gas,29,a,1997
+20,two seater,23,4,1.9,gas,29,m,1997
+9,two seater,11,8,3.5,gas,14,m,1997
+24,two seater,27,4,1.6,gas,32,a,1997
+24,two seater,27,4,1.6,gas,32,a,1997
+28,two seater,31,4,1.6,gas,35,m,1997
+23,two seater,25,4,1.6,gas,27,m,1997
+26,two seater,28,4,1.6,gas,33,m,1997
+8,two seater,10,12,5.7,gas,13,m,1997
+14,two seater,16,8,3.5,gas,21,m,1997
+19,two seater,22,4,1.8,gas,26,a,1997
+20,two seater,22,4,1.8,gas,26,m,1997
+16,two seater,18,6,3.2,gas,22,a,1997
+14,two seater,16,8,5,gas,21,a,1997
+12,two seater,14,12,6,gas,19,a,1997
+21,two seater,22,4,1.6,gas,25,a,1997
+22,two seater,24,4,1.6,gas,26,m,1997
+21,two seater,22,4,1.6,gas,25,a,1997
+22,two seater,24,4,1.6,gas,26,m,1997
+8,two seater,9,12,5.7,gas,12,m,1997
+13,minicompact car,15,6,3.2,gas,19,a,1997
+12,minicompact car,15,6,3.2,gas,19,m,1997
+13,minicompact car,15,6,3.2,gas,19,a,1997
+12,minicompact car,15,6,3.2,gas,19,m,1997
+17,minicompact car,19,6,2.8,gas,22,a,1997
+19,minicompact car,22,4,1.9,gas,28,a,1997
+20,minicompact car,23,4,1.9,gas,29,m,1997
+17,minicompact car,19,6,2.8,gas,24,a,1997
+18,minicompact car,21,6,2.8,gas,26,m,1997
+19,minicompact car,21,4,2.4,gas,24,a,1997
+19,minicompact car,22,4,2.4,gas,26,m,1997
+18,minicompact car,20,4,2,gas,24,a,1997
+21,minicompact car,24,4,2,gas,29,m,1997
+18,minicompact car,20,4,2.4,gas,26,a,1997
+19,minicompact car,22,4,2.4,gas,27,m,1997
+15,minicompact car,18,6,3.6,gas,22,a,1997
+15,minicompact car,18,6,3.6,gas,23,m,1997
+15,minicompact car,17,6,3.6,gas,21,m,1997
+11,minicompact car,14,6,3.6,gas,17,m,1997
+19,minicompact car,22,4,2.2,gas,27,a,1997
+19,minicompact car,22,4,2.2,gas,26,m,1997
+23,minicompact car,26,4,1.5,gas,29,a,1997
+26,minicompact car,29,4,1.5,gas,34,m,1997
+23,minicompact car,26,4,1.5,gas,29,a,1997
+25,minicompact car,28,4,1.5,gas,32,m,1997
+16,minicompact car,19,6,3,gas,23,a,1997
+16,minicompact car,18,6,3,gas,22,a,1997
+16,minicompact car,18,6,3,gas,22,m,1997
+15,minicompact car,18,6,3,gas,22,m,1997
+22,subcompact car,25,4,1.8,gas,29,m,1997
+16,two seater,18,6,3,gas,22,a,1998
+16,two seater,18,6,3.2,gas,22,m,1998
+13,two seater,15,6,3.2,gas,19,a,1998
+12,two seater,15,6,3.2,gas,19,m,1998
+13,two seater,15,6,3.2,gas,19,a,1998
+12,two seater,15,6,3.2,gas,19,m,1998
+18,two seater,21,6,3.2,gas,26,m,1998
+20,two seater,23,4,1.9,gas,28,a,1998
+20,two seater,24,4,1.9,gas,29,m,1998
+16,two seater,18,6,2.8,gas,22,a,1998
+17,two seater,19,6,2.8,gas,24,m,1998
+15,two seater,18,8,5.7,gas,23,a,1998
+16,two seater,19,8,5.7,gas,25,m,1998
+11,two seater,13,10,8,gas,20,m,1998
+11,two seater,13,10,8,gas,20,m,1998
+8,two seater,10,12,5.5,gas,14,m,1998
+9,two seater,11,8,3.5,gas,13,a,1998
+9,two seater,11,8,3.5,gas,14,m,1998
+9,two seater,10,12,5.7,gas,13,m,1998
+14,two seater,16,8,3.5,gas,21,m,1998
+14,two seater,17,8,5,gas,21,a,1998
+12,two seater,14,12,6,gas,18,a,1998
+15,two seater,17,6,2.5,gas,22,a,1998
+17,two seater,20,6,2.5,gas,24,m,1998
+20,two seater,22,4,1.6,gas,25,a,1998
+22,two seater,23,4,1.6,gas,26,m,1998
+20,two seater,22,4,1.6,gas,25,a,1998
+22,two seater,23,4,1.6,gas,26,m,1998
+17,minicompact car,19,6,2.8,gas,22,a,1998
+17,minicompact car,20,6,2.5,gas,25,a,1998
+18,minicompact car,21,6,2.5,gas,27,m,1998
+16,minicompact car,19,6,2.8,gas,24,a,1998
+17,minicompact car,20,6,2.8,gas,26,m,1998
+15,minicompact car,18,6,3.2,gas,23,a,1998
+18,minicompact car,21,6,3.2,gas,26,m,1998
+15,minicompact car,18,8,4,gas,22,a,1998
+18,minicompact car,20,4,2,gas,24,a,1998
+20,minicompact car,23,4,2,gas,29,m,1998
+18,minicompact car,21,4,2.3,gas,26,a,1998
+19,minicompact car,22,4,2.3,gas,27,m,1998
+19,minicompact car,21,4,2.4,gas,24,a,1998
+20,minicompact car,22,4,2.4,gas,25,m,1998
+15,minicompact car,17,6,3.6,gas,22,a,1998
+15,minicompact car,18,6,3.6,gas,23,m,1998
+14,minicompact car,17,6,3.6,gas,21,m,1998
+20,minicompact car,23,4,2.2,gas,27,a,1998
+19,minicompact car,22,4,2.2,gas,26,m,1998
+23,minicompact car,26,4,1.5,gas,29,a,1998
+25,minicompact car,28,4,1.5,gas,32,m,1998
+23,minicompact car,26,4,1.5,gas,29,a,1998
+16,two seater,18,6,3,gas,22,a,1999
+16,two seater,18,6,3.2,gas,22,m,1999
+17,two seater,20,6,3.2,gas,24,m,1999
+17,two seater,20,6,3.2,gas,24,m,1999
+17,two seater,19,6,2.8,gas,24,a,1999
+17,two seater,19,6,2.8,gas,24,m,1999
+17,two seater,19,6,2.5,gas,24,a,1999
+17,two seater,20,6,2.5,gas,25,m,1999
+17,two seater,19,6,2.8,gas,24,a,1999
+15,two seater,18,8,5.7,gas,23,a,1999
+16,two seater,20,8,5.7,gas,26,m,1999
+8,two seater,10,12,5.5,gas,13,m,1999
+9,two seater,11,8,3.5,gas,13,a,1999
+9,two seater,11,8,3.5,gas,14,m,1999
+9,two seater,10,12,5.7,gas,13,m,1999
+20,two seater,22,4,1.8,gas,26,a,1999
+22,two seater,24,4,1.8,gas,27,m,1999
+14,two seater,17,8,5,gas,21,a,1999
+12,two seater,14,12,6,gas,17,a,1999
+19,two seater,22,4,2.3,gas,27,a,1999
+19,two seater,22,4,2.3,gas,28,m,1999
+15,two seater,18,6,3.5,gas,21,a,1999
+15,two seater,17,6,2.5,gas,22,a,1999
+17,two seater,20,6,2.5,gas,24,m,1999
+17,minicompact car,20,6,2.5,gas,25,a,1999
+18,minicompact car,22,6,2.5,gas,28,m,1999
+18,minicompact car,20,6,2.8,gas,25,a,1999
+18,minicompact car,21,6,2.8,gas,27,m,1999
+15,minicompact car,18,6,3.2,gas,23,a,1999
+17,minicompact car,20,6,3.2,gas,24,m,1999
+15,minicompact car,17,8,4,gas,22,a,1999
+17,minicompact car,20,6,3.2,gas,25,a,1999
+18,minicompact car,20,4,2,gas,24,a,1999
+20,minicompact car,23,4,2,gas,29,m,1999
+18,minicompact car,21,4,2.4,gas,26,a,1999
+19,minicompact car,22,4,2.4,gas,27,m,1999
+15,minicompact car,18,6,3.4,gas,23,a,1999
+15,minicompact car,18,6,3.4,gas,23,m,1999
+20,minicompact car,23,4,2.2,gas,27,a,1999
+19,minicompact car,22,4,2.2,gas,26,m,1999
+24,minicompact car,26,4,1.5,gas,29,a,1999
+28,minicompact car,31,4,1.5,gas,37,m,1999
+24,minicompact car,26,4,1.5,gas,29,a,1999
+28,minicompact car,31,4,1.5,gas,37,m,1999
+20,subcompact car,22,4,2.3,gas,27,a,1999
+21,subcompact car,24,4,2.3,gas,29,m,1999
+17,subcompact car,20,6,3,gas,26,a,1999
+21,subcompact car,24,4,1.8,gas,29,a,1999
+22,subcompact car,25,4,1.8,gas,29,m,1999
+22,subcompact car,24,4,1.8,gas,28,m,1999
+15,two seater,18,6,3,gas,22,a,2000
+15,two seater,18,6,3.2,gas,22,m,2000
+17,two seater,19,6,3.2,gas,23,m,2000
+17,two seater,19,6,2.8,gas,24,a,2000
+17,two seater,19,6,2.8,gas,24,m,2000
+17,two seater,19,6,2.5,gas,24,a,2000
+17,two seater,20,6,2.5,gas,25,m,2000
+17,two seater,19,6,2.8,gas,24,a,2000
+17,two seater,19,6,2.8,gas,24,m,2000
+12,two seater,15,8,4.9,gas,19,m,2000
+15,two seater,18,8,5.7,gas,23,a,2000
+16,two seater,19,8,5.7,gas,25,m,2000
+11,two seater,14,10,8,gas,19,m,2000
+11,two seater,14,10,8,gas,19,m,2000
+10,two seater,11,8,3.6,gas,15,m,2000
+10,two seater,11,8,3.6,gas,15,a,2000
+8,two seater,9,12,5.5,gas,12,m,2000
+49,two seater,53,3,1,gas,61,m,2000
+18,two seater,20,4,2,gas,23,m,2000
+14,two seater,16,8,3.5,gas,21,m,2000
+20,two seater,22,4,1.8,gas,25,a,2000
+22,two seater,24,4,1.8,gas,27,m,2000
+21,two seater,23,4,1.8,gas,26,m,2000
+14,two seater,17,8,5,gas,21,a,2000
+12,two seater,14,12,6,gas,18,a,2000
+20,two seater,22,4,2.3,gas,27,a,2000
+19,two seater,22,4,2.3,gas,28,m,2000
+15,two seater,18,6,3.5,gas,21,a,2000
+16,two seater,18,6,2.7,gas,23,a,2000
+17,two seater,20,6,2.7,gas,25,m,2000
+15,two seater,17,6,3.2,gas,22,a,2000
+16,two seater,18,6,3.2,gas,23,m,2000
+22,two seater,24,4,1.8,gas,27,m,2000
+10,minicompact car,12,12,5.9,gas,17,a,2000
+10,minicompact car,12,12,5.9,gas,17,m,2000
+10,minicompact car,12,12,5.9,gas,17,a,2000
+10,minicompact car,12,12,5.9,gas,17,m,2000
+19,minicompact car,23,4,1.8,gas,29,m,2000
+18,minicompact car,21,4,1.8,gas,26,m,2000
+16,minicompact car,18,6,2.5,gas,22,a,2000
+17,minicompact car,19,6,2.5,gas,23,m,2000
+17,minicompact car,19,6,3.2,gas,23,m,2000
+15,minicompact car,18,8,4,gas,22,a,2000
+14,minicompact car,17,8,4,gas,20,a,2000
+17,minicompact car,20,6,3.2,gas,25,a,2000
+15,minicompact car,18,8,4.3,gas,22,a,2000
+15,minicompact car,18,6,3.4,gas,23,a,2000
+15,minicompact car,17,6,3.4,gas,22,a,2000
+15,minicompact car,18,6,3.4,gas,23,m,2000
+15,minicompact car,17,6,3.4,gas,22,m,2000
+15,two seater,18,6,3,gas,22,a,2001
+15,two seater,18,6,3.2,gas,22,m,2001
+19,two seater,22,4,1.8,gas,27,m,2001
+18,two seater,21,4,1.8,gas,26,m,2001
+15,two seater,18,6,3.2,gas,23,m,2001
+15,two seater,18,6,3.2,gas,23,m,2001
+19,two seater,21,6,3,gas,26,m,2001
+17,two seater,20,6,3,gas,25,a,2001
+17,two seater,20,6,2.5,gas,24,a,2001
+18,two seater,20,6,2.5,gas,25,m,2001
+19,two seater,21,6,3,gas,26,m,2001
+17,two seater,19,6,3,gas,23,a,2001
+12,two seater,15,8,4.9,gas,19,m,2001
+16,two seater,19,8,5.7,gas,24,a,2001
+17,two seater,20,8,5.7,gas,26,m,2001
+10,two seater,13,10,8,gas,19,m,2001
+10,two seater,13,10,8,gas,19,m,2001
+10,two seater,11,8,3.6,gas,15,m,2001
+10,two seater,11,8,3.6,gas,15,a,2001
+8,two seater,9,12,5.5,gas,12,m,2001
+45,two seater,47,3,1,gas,49,a,2001
+45,two seater,47,3,1,gas,49,a,2001
+48,two seater,53,3,1,gas,60,m,2001
+18,two seater,20,4,2,gas,24,m,2001
+9,two seater,11,12,6,gas,12,m,2001
+15,two seater,19,8,3.5,gas,27,m,2001
+20,two seater,22,4,1.8,gas,25,a,2001
+20,two seater,23,4,1.8,gas,26,m,2001
+20,two seater,22,4,1.8,gas,26,m,2001
+14,two seater,17,8,5,gas,21,a,2001
+12,two seater,14,12,6,gas,17,a,2001
+20,two seater,23,4,2.3,gas,27,a,2001
+18,two seater,21,4,2.3,gas,27,m,2001
+18,two seater,21,6,3.2,gas,25,a,2001
+16,two seater,19,6,3.2,gas,25,m,2001
+15,two seater,17,6,3.5,gas,21,a,2001
+17,two seater,20,6,2.7,gas,25,m,2001
+16,two seater,18,6,2.7,gas,23,a,2001
+15,two seater,18,6,3.2,gas,23,a,2001
+16,two seater,18,6,3.2,gas,23,m,2001
+22,two seater,24,4,1.8,gas,27,m,2001
+20,minicompact car,23,4,1.8,gas,29,m,2001
+18,minicompact car,21,4,1.8,gas,26,m,2001
+18,minicompact car,21,4,1.8,gas,26,m,2001
+17,minicompact car,19,6,2.5,gas,24,a,2001
+17,minicompact car,20,6,2.5,gas,24,m,2001
+17,minicompact car,20,6,3,gas,26,m,2001
+16,minicompact car,19,6,3,gas,24,a,2001
+14,minicompact car,17,6,3.2,gas,21,m,2001
+15,minicompact car,18,8,4,gas,22,a,2001
+15,two seater,18,6,3,gas,22,a,2002
+15,two seater,18,6,3.2,gas,22,m,2002
+11,two seater,13,12,5.9,gas,18,a,2002
+20,two seater,23,4,1.8,gas,28,m,2002
+18,two seater,21,4,1.8,gas,26,m,2002
+17,two seater,20,6,3,gas,25,a,2002
+19,two seater,21,6,3,gas,26,m,2002
+18,two seater,20,6,2.5,gas,25,m,2002
+17,two seater,20,6,2.5,gas,24,a,2002
+17,two seater,19,6,3,gas,23,a,2002
+19,two seater,21,6,3,gas,26,m,2002
+12,two seater,15,8,4.9,gas,19,m,2002
+16,two seater,19,8,5.7,gas,23,a,2002
+17,two seater,20,8,5.7,gas,26,m,2002
+16,two seater,18,6,3.5,gas,21,a,2002
+10,two seater,13,10,8,gas,19,m,2002
+10,two seater,13,10,8,gas,19,m,2002
+10,two seater,11,8,3.6,gas,15,m,2002
+10,two seater,11,8,3.6,gas,15,a,2002
+9,two seater,11,12,5.7,gas,15,m,2002
+9,two seater,11,12,5.7,gas,16,a,2002
+15,two seater,17,8,3.9,gas,22,a,2002
+45,two seater,47,3,1,gas,49,a,2002
+48,two seater,53,3,1,gas,59,m,2002
+18,two seater,20,4,2,gas,24,m,2002
+8,two seater,10,12,6,gas,12,m,2002
+8,two seater,10,12,6.2,gas,12,m,2002
+10,two seater,12,8,4.2,gas,15,m,2002
+10,two seater,12,8,4.2,gas,16,a,2002
+20,two seater,22,4,1.8,gas,25,a,2002
+20,two seater,23,4,1.8,gas,26,m,2002
+20,two seater,22,4,1.8,gas,26,m,2002
+15,two seater,17,8,5,gas,22,a,2002
+12,two seater,14,12,6,gas,17,a,2002
+20,two seater,23,4,2.3,gas,27,a,2002
+18,two seater,21,4,2.3,gas,27,m,2002
+16,two seater,18,6,3.2,gas,22,a,2002
+18,two seater,20,6,3.2,gas,24,a,2002
+15,two seater,18,6,3.2,gas,24,m,2002
+15,two seater,17,8,4,gas,22,m,2002
+14,two seater,16,6,3.6,gas,20,m,2002
+17,two seater,20,6,2.7,gas,25,m,2002
+16,two seater,18,6,2.7,gas,23,a,2002
+16,two seater,18,6,3.2,gas,23,m,2002
+15,two seater,18,6,3.2,gas,23,a,2002
+22,two seater,24,4,1.8,gas,27,m,2002
+20,minicompact car,23,4,1.8,gas,29,m,2002
+18,minicompact car,21,4,1.8,gas,27,m,2002
+18,minicompact car,21,4,1.8,gas,26,m,2002
+17,minicompact car,19,6,2.5,gas,24,m,2002
+15,two seater,18,6,3,gas,22,a,2003
+15,two seater,18,6,3.2,gas,22,m,2003
+13,two seater,15,8,4.8,gas,19,a,2003
+18,two seater,21,4,1.8,gas,26,a,2003
+18,two seater,21,4,1.8,gas,26,m,2003
+18,two seater,21,6,2.5,gas,26,a,2003
+18,two seater,21,6,2.5,gas,26,m,2003
+18,two seater,20,6,3,gas,25,a,2003
+18,two seater,21,6,3,gas,27,m,2003
+12,two seater,15,8,4.9,gas,19,m,2003
+16,two seater,19,8,5.7,gas,23,a,2003
+17,two seater,20,8,5.7,gas,26,m,2003
+11,two seater,14,10,8.3,gas,20,m,2003
+7,two seater,8,12,6,gas,12,a,2003
+10,two seater,11,8,3.6,gas,15,m,2003
+10,two seater,11,8,3.6,gas,15,a,2003
+9,two seater,11,12,5.7,gas,15,m,2003
+9,two seater,11,12,5.7,gas,16,a,2003
+16,two seater,18,8,3.9,gas,22,a,2003
+16,two seater,18,8,3.9,gas,23,a,2003
+45,two seater,47,3,1,gas,49,a,2003
+48,two seater,53,3,1,gas,59,m,2003
+18,two seater,20,4,2,gas,24,m,2003
+8,two seater,10,12,6,gas,12,m,2003
+8,two seater,10,12,6.2,gas,12,m,2003
+14,two seater,16,8,3.5,gas,21,m,2003
+10,two seater,12,8,4.2,gas,15,m,2003
+10,two seater,12,8,4.2,gas,16,a,2003
+20,two seater,22,4,1.8,gas,25,a,2003
+20,two seater,23,4,1.8,gas,26,m,2003
+20,two seater,22,4,1.8,gas,26,m,2003
+14,two seater,16,8,5,gas,20,a,2003
+12,two seater,14,8,5.5,gas,18,a,2003
+19,two seater,22,4,2.3,gas,26,a,2003
+17,two seater,20,4,2.3,gas,25,m,2003
+15,two seater,17,6,3.2,gas,21,a,2003
+18,two seater,20,6,3.2,gas,24,a,2003
+15,two seater,18,6,3.2,gas,24,m,2003
+15,two seater,17,8,4,gas,22,m,2003
+18,two seater,20,6,3.5,gas,24,m,2003
+17,two seater,19,6,3.5,gas,24,a,2003
+18,two seater,21,6,2.7,gas,27,m,2003
+16,two seater,19,6,2.7,gas,24,a,2003
+16,two seater,19,6,3.2,gas,24,m,2003
+15,two seater,18,6,3.2,gas,24,a,2003
+14,two seater,16,6,3.6,gas,20,m,2003
+23,two seater,25,4,1.8,gas,29,m,2003
+22,two seater,25,4,1.8,gas,30,m,2003
+11,minicompact car,13,12,5.9,gas,18,a,2003
+9,minicompact car,11,12,5.9,gas,15,m,2003
+16,two seater,18,6,3,gas,22,a,2004
+16,two seater,18,6,3.2,gas,22,m,2004
+18,two seater,21,4,1.8,gas,26,a,2004
+18,two seater,21,4,1.8,gas,26,m,2004
+19,two seater,21,6,3.2,gas,25,a,2004
+18,two seater,21,6,2.5,gas,26,m,2004
+18,two seater,21,6,2.5,gas,26,a,2004
+18,two seater,21,6,2.5,gas,27,a,2004
+18,two seater,21,6,3,gas,27,m,2004
+17,two seater,20,6,3,gas,25,a,2004
+18,two seater,21,6,3,gas,27,a,2004
+15,two seater,18,8,4.6,gas,23,a,2004
+16,two seater,19,8,5.7,gas,23,a,2004
+17,two seater,20,8,5.7,gas,26,m,2004
+19,two seater,21,6,3.2,gas,25,a,2004
+15,two seater,18,6,3.2,gas,23,m,2004
+11,two seater,13,10,8.3,gas,19,m,2004
+10,two seater,11,8,3.6,gas,15,m,2004
+10,two seater,12,8,3.6,gas,15,a,2004
+10,two seater,11,8,3.6,gas,15,a,2004
+9,two seater,11,12,5.7,gas,15,m,2004
+9,two seater,11,12,5.7,gas,16,a,2004
+15,two seater,18,8,3.9,gas,21,a,2004
+15,two seater,18,8,3.9,gas,23,a,2004
+45,two seater,47,3,1,gas,49,a,2004
+48,two seater,52,3,1,gas,58,m,2004
+17,two seater,20,4,2.2,gas,23,m,2004
+8,two seater,10,10,5,gas,14,m,2004
+9,two seater,11,10,5,gas,16,a,2004
+8,two seater,10,12,6.2,gas,12,m,2004
+9,two seater,11,12,6.2,gas,14,a,2004
+14,two seater,16,8,3.5,gas,21,m,2004
+10,two seater,12,8,4.2,gas,15,m,2004
+10,two seater,12,8,4.2,gas,16,a,2004
+20,two seater,22,4,1.8,gas,26,a,2004
+20,two seater,23,4,1.8,gas,26,m,2004
+20,two seater,22,4,1.8,gas,26,m,2004
+18,two seater,20,4,1.8,gas,24,m,2004
+14,two seater,17,8,5,gas,21,a,2004
+13,two seater,15,8,5.4,gas,19,a,2004
+12,two seater,14,12,5.5,gas,17,a,2004
+19,two seater,22,4,2.3,gas,26,a,2004
+19,two seater,21,4,2.3,gas,26,m,2004
+15,two seater,17,6,3.2,gas,21,a,2004
+18,two seater,20,6,3.2,gas,24,a,2004
+17,two seater,19,6,3.2,gas,24,m,2004
+18,two seater,20,6,3.5,gas,24,m,2004
+17,two seater,19,6,3.5,gas,24,a,2004
+17,two seater,20,6,3.5,gas,24,m,2004
+16,two seater,19,6,3.5,gas,23,a,2004
+16,two seater,18,6,3,gas,22,a,2005
+16,two seater,18,6,3.2,gas,22,m,2005
+18,two seater,21,4,1.8,gas,26,a,2005
+18,two seater,21,4,1.8,gas,26,m,2005
+17,two seater,19,6,3.2,gas,23,a,2005
+18,two seater,21,6,2.5,gas,26,m,2005
+18,two seater,21,6,2.5,gas,26,a,2005
+18,two seater,21,6,3,gas,27,m,2005
+17,two seater,20,6,3,gas,25,a,2005
+18,two seater,21,6,3,gas,27,a,2005
+15,two seater,18,8,4.6,gas,23,a,2005
+16,two seater,19,8,6,gas,24,a,2005
+16,two seater,19,8,6,gas,26,m,2005
+19,two seater,21,6,3.2,gas,25,a,2005
+15,two seater,18,6,3.2,gas,22,a,2005
+15,two seater,18,6,3.2,gas,23,m,2005
+19,two seater,21,6,3.2,gas,25,a,2005
+15,two seater,18,6,3.2,gas,22,a,2005
+15,two seater,18,6,3.2,gas,23,m,2005
+11,two seater,13,10,8.3,gas,19,m,2005
+10,two seater,11,8,3.6,gas,15,m,2005
+10,two seater,11,8,3.6,gas,15,a,2005
+9,two seater,11,12,5.7,gas,15,m,2005
+9,two seater,11,12,5.7,gas,16,a,2005
+12,two seater,14,8,5.4,gas,19,m,2005
+16,two seater,18,8,3.9,gas,22,a,2005
+16,two seater,18,8,3.9,gas,22,a,2005
+45,two seater,47,3,1,gas,49,a,2005
+48,two seater,52,3,1,gas,58,m,2005
+17,two seater,20,4,2.2,gas,23,m,2005
+8,two seater,10,10,5,gas,14,m,2005
+9,two seater,11,10,5,gas,16,a,2005
+8,two seater,10,12,6.2,gas,12,m,2005
+9,two seater,11,12,6.2,gas,14,a,2005
+20,two seater,22,4,1.8,gas,25,m,2005
+10,two seater,12,8,4.2,gas,15,m,2005
+11,two seater,12,8,4.2,gas,16,a,2005
+20,two seater,22,4,1.8,gas,26,a,2005
+20,two seater,23,4,1.8,gas,26,m,2005
+20,two seater,22,4,1.8,gas,26,m,2005
+18,two seater,20,4,1.8,gas,24,m,2005
+12,two seater,13,8,5.4,gas,16,a,2005
+14,two seater,17,8,5,gas,21,a,2005
+12,two seater,14,8,5.4,gas,18,a,2005
+11,two seater,14,12,5.5,gas,18,a,2005
+11,two seater,13,12,6,gas,18,a,2005
+17,two seater,19,6,3.5,gas,23,a,2005
+16,two seater,19,6,3.5,gas,23,m,2005
+14,two seater,16,8,5.4,gas,20,a,2005
+17,two seater,20,6,3.5,gas,24,m,2005
+18,two seater,21,4,1.8,gas,26,a,2006
+18,two seater,21,4,1.8,gas,26,m,2006
+17,two seater,19,6,3.2,gas,23,a,2006
+15,two seater,18,8,4.6,gas,23,a,2006
+16,two seater,19,8,6,gas,26,m,2006
+15,two seater,19,8,6,gas,25,a,2006
+15,two seater,18,8,7,gas,24,m,2006
+19,two seater,21,6,3.2,gas,25,a,2006
+15,two seater,18,6,3.2,gas,22,a,2006
+15,two seater,18,6,3.2,gas,23,m,2006
+19,two seater,21,6,3.2,gas,25,a,2006
+15,two seater,18,6,3.2,gas,22,a,2006
+15,two seater,18,6,3.2,gas,23,m,2006
+11,two seater,13,10,8.3,gas,19,m,2006
+11,two seater,13,8,4.3,gas,16,a,2006
+11,two seater,13,8,4.3,gas,16,m,2006
+45,two seater,47,3,1,gas,49,a,2006
+48,two seater,52,3,1,gas,58,m,2006
+18,two seater,20,4,2.2,gas,24,m,2006
+10,two seater,12,10,5,gas,15,m,2006
+10,two seater,12,10,5,gas,16,m,2006
+11,two seater,13,10,5,gas,17,a,2006
+11,two seater,12,10,5,gas,16,a,2006
+8,two seater,10,12,6.2,gas,13,m,2006
+9,two seater,11,12,6.2,gas,14,a,2006
+22,two seater,24,4,2,gas,27,m,2006
+21,two seater,24,4,2,gas,28,m,2006
+20,two seater,23,4,2,gas,28,a,2006
+14,two seater,17,8,5,gas,22,a,2006
+12,two seater,15,8,5.4,gas,19,a,2006
+11,two seater,14,12,5.5,gas,18,a,2006
+12,two seater,14,12,6,gas,18,a,2006
+18,two seater,21,6,3,gas,25,a,2006
+17,two seater,20,6,3,gas,25,m,2006
+17,two seater,19,6,3.5,gas,22,a,2006
+16,two seater,19,6,3.5,gas,23,m,2006
+14,two seater,16,8,5.4,gas,20,a,2006
+11,two seater,13,8,5.4,gas,16,a,2006
+17,two seater,19,6,3.5,gas,23,m,2006
+17,two seater,19,6,3.5,gas,23,a,2006
+17,two seater,19,6,3.5,gas,23,m,2006
+16,two seater,19,6,3.5,gas,23,a,2006
+17,two seater,21,4,2.4,gas,26,m,2006
+16,two seater,19,6,2.7,gas,24,a,2006
+18,two seater,21,6,2.7,gas,27,m,2006
+18,two seater,21,6,2.7,gas,26,m,2006
+16,two seater,19,6,3.2,gas,24,a,2006
+17,two seater,20,6,3.2,gas,25,m,2006
+11,minicompact car,13,12,5.9,gas,18,a,2006
+10,minicompact car,12,12,5.9,gas,16,m,2006
+8,two seater,10,12,6.5,gas,13,m,2007
+9,two seater,11,12,6.5,gas,14,a,2007
+12,two seater,14,8,5.4,gas,17,a,2007
+13,two seater,16,8,5.5,gas,21,a,2007
+11,two seater,14,12,5.5,gas,18,a,2007
+11,two seater,14,12,6,gas,18,a,2007
+16,minicompact car,19,8,4.2,gas,25,a,2007
+16,minicompact car,19,8,4.2,gas,25,a,2007
+19,minicompact car,22,4,2.4,gas,26,m,2007
+19,minicompact car,22,4,2.4,gas,26,a,2007
+16,minicompact car,18,6,3.8,gas,24,m,2007
+16,minicompact car,19,6,3.8,gas,24,a,2007
+21,subcompact car,24,4,2.4,gas,29,a,2007
+22,subcompact car,25,4,2.4,gas,31,m,2007
+20,subcompact car,23,4,2.4,gas,28,m,2007
+20,subcompact car,22,4,2.4,gas,26,a,2007
+16,subcompact car,19,6,3.8,gas,25,m,2007
+17,subcompact car,20,6,3.8,gas,26,a,2007
+21,subcompact car,24,4,2.4,gas,29,a,2007
+22,subcompact car,25,4,2.4,gas,31,m,2007
+18,subcompact car,20,4,2.5,gas,23,a,2007
+20,subcompact car,22,4,2.5,gas,25,a,2007
+18,subcompact car,21,4,2.5,gas,25,m,2007
+19,subcompact car,22,4,2.5,gas,26,m,2007
+29,subcompact car,31,4,1.5,gas,35,a,2007
+29,subcompact car,32,4,1.5,gas,36,m,2007
+23,compact car,26,4,2,gas,31,a,2007
+24,compact car,27,4,2,gas,33,m,2007
+20,compact car,23,4,2.3,gas,29,m,2007
+24,compact car,28,4,1.6,gas,33,a,2007
+27,compact car,29,4,1.6,gas,32,m,2007
+22,compact car,23,6,3.5,gas,25,a,2007
+20,compact car,24,4,2.4,gas,30,a,2007
+21,compact car,24,4,2.4,gas,29,a,2007
+22,compact car,25,4,2.4,gas,31,m,2007
+19,compact car,22,4,2.5,gas,26,m,2007
+20,compact car,23,4,2.5,gas,28,a,2007
+21,compact car,24,4,2,gas,29,m,2007
+22,compact car,25,4,2,gas,29,a,2007
+21,compact car,24,4,2,gas,29,m,2007
+22,compact car,25,4,2,gas,29,a,2007
+18,midsize car,21,6,3,gas,28,m,2007
+18,midsize car,22,6,3,gas,28,a,2007
+17,midsize car,20,6,3,gas,26,m,2007
+17,midsize car,20,6,3,gas,25,a,2007
+18,midsize car,21,6,3,gas,28,m,2007
+18,midsize car,22,6,3,gas,28,a,2007
+17,midsize car,20,6,3,gas,25,a,2007
+17,midsize car,20,6,3,gas,26,m,2007
+17,midsize car,20,6,3,gas,25,a,2007
+22,two seater,25,4,2,gas,29,a,2008
+17,two seater,19,6,3.2,gas,24,m,2008
+18,two seater,20,6,3.2,gas,24,a,2008
+16,minicompact car,19,8,4.2,gas,25,a,2008
+16,minicompact car,19,8,4.2,gas,25,a,2008
+15,minicompact car,18,8,4.2,gas,23,a,2008
+15,minicompact car,18,8,4.2,gas,23,a,2008
+19,minicompact car,22,4,2.4,gas,26,m,2008
+19,minicompact car,22,4,2.4,gas,26,a,2008
+16,minicompact car,19,6,3.8,gas,25,m,2008
+16,minicompact car,19,6,3.8,gas,24,a,2008
+23,subcompact car,26,4,2,gas,31,a,2008
+17,subcompact car,19,6,3.2,gas,24,m,2008
+18,subcompact car,20,6,3.2,gas,24,a,2008
+20,subcompact car,23,4,2.4,gas,29,a,2008
+18,subcompact car,21,6,2.7,gas,26,a,2008
+16,subcompact car,19,6,3.5,gas,26,a,2008
+20,subcompact car,23,4,2.4,gas,28,m,2008
+20,subcompact car,22,4,2.4,gas,26,a,2008
+16,subcompact car,19,6,3.8,gas,25,m,2008
+17,subcompact car,20,6,3.8,gas,25,a,2008
+21,subcompact car,24,4,2.4,gas,29,a,2008
+20,subcompact car,23,4,2.4,gas,27,m,2008
+21,subcompact car,24,4,2,gas,30,a,2008
+16,compact car,18,6,3,gas,22,a,2008
+11,compact car,14,8,6.2,gas,18,a,2008
+22,compact car,24,4,2,gas,29,a,2008
+21,compact car,24,4,2,gas,29,m,2008
+19,compact car,21,4,2.5,gas,24,m,2008
+20,compact car,22,4,2.5,gas,27,m,2008
+17,compact car,20,4,2.5,gas,24,m,2008
+20,compact car,22,4,2.5,gas,27,a,2008
+18,compact car,20,4,2.5,gas,24,a,2008
+22,compact car,25,4,2,gas,29,a,2008
+22,compact car,25,4,2,gas,29,a,2008
+18,midsize car,21,6,3,gas,28,m,2008
+18,midsize car,21,6,3,gas,27,a,2008
+17,midsize car,20,6,3,gas,25,m,2008
+17,midsize car,20,6,3,gas,25,a,2008
+17,midsize car,20,6,3,gas,26,a,2008
+17,midsize car,20,6,3,gas,25,a,2008
+15,midsize car,18,8,4.8,gas,22,m,2008
+15,midsize car,18,8,4.8,gas,23,a,2008
+11,midsize car,13,10,5,gas,17,m,2008
+11,midsize car,13,10,5,gas,17,a,2008
+16,midsize car,19,8,5.3,gas,24,a,2008
+21,midsize car,24,4,2.4,gas,30,a,2008
+16,midsize car,19,6,3.5,gas,26,a,2008
+15,midsize car,18,6,3.5,gas,24,a,2008
+21,midsize car,24,4,2.4,gas,30,a,2008
+11,two seater,13,12,5.9,gas,17,m,2009
+21,two seater,24,4,2,gas,29,a,2009
+15,two seater,18,8,6.2,gas,25,a,2009
+16,two seater,19,8,6.2,gas,26,m,2009
+13,two seater,16,8,5.5,gas,21,a,2009
+11,two seater,14,12,5.5,gas,18,a,2009
+12,two seater,14,8,6.2,gas,19,a,2009
+11,two seater,14,12,6,gas,18,a,2009
+17,two seater,20,6,3,gas,26,m,2009
+19,two seater,21,6,3,gas,26,a,2009
+18,two seater,21,6,3.5,gas,26,a,2009
+18,two seater,21,6,3.5,gas,26,m,2009
+11,minicompact car,13,12,5.9,gas,17,m,2009
+12,minicompact car,14,12,5.9,gas,19,a,2009
+16,minicompact car,19,8,4.2,gas,25,a,2009
+16,minicompact car,19,8,4.2,gas,25,a,2009
+15,minicompact car,18,8,4.2,gas,23,a,2009
+15,minicompact car,18,8,4.2,gas,23,a,2009
+16,minicompact car,19,6,3.8,gas,25,m,2009
+16,minicompact car,19,6,3.8,gas,24,a,2009
+19,minicompact car,22,4,2.4,gas,26,m,2009
+19,minicompact car,22,4,2.4,gas,26,a,2009
+20,minicompact car,23,5,2.5,gas,28,m,2009
+20,minicompact car,23,5,2.5,gas,28,a,2009
+21,subcompact car,24,4,2,gas,29,a,2009
+25,subcompact car,28,4,1.6,gas,34,a,2009
+16,subcompact car,18,2,1.3,gas,22,m,2009
+16,subcompact car,19,2,1.3,gas,23,a,2009
+16,subcompact car,19,6,3.8,gas,25,m,2009
+16,subcompact car,19,6,3.8,gas,24,a,2009
+19,subcompact car,22,4,2.4,gas,26,a,2009
+20,subcompact car,23,4,2.4,gas,28,m,2009
+25,subcompact car,28,4,1.6,gas,34,a,2009
+20,subcompact car,23,4,2.4,gas,27,m,2009
+21,subcompact car,24,4,2.4,gas,29,a,2009
+20,subcompact car,23,5,2.5,gas,28,m,2009
+20,subcompact car,23,5,2.5,gas,29,a,2009
+20,compact car,23,4,2.4,gas,28,m,2009
+21,compact car,25,4,2.4,gas,30,a,2009
+9,compact car,11,8,6.7,gas,15,a,2009
+10,compact car,11,8,6.7,gas,14,a,2009
+25,compact car,28,4,1.6,gas,34,a,2009
+14,compact car,16,8,5.5,gas,21,a,2009
+21,compact car,23,4,2.4,gas,27,a,2009
+21,compact car,23,4,2.4,gas,28,m,2009
+22,compact car,24,4,2,gas,28,a,2009
+22,compact car,25,4,2,gas,30,m,2009
+25,compact car,28,4,1.6,gas,34,a,2009
+17,compact car,20,4,2.5,gas,24,m,2009
+18,compact car,20,4,2.5,gas,24,a,2009
+16,minicompact car,19,8,5,gas,24,a,2010
+15,minicompact car,17,8,5,gas,22,a,2010
+16,minicompact car,18,8,5,gas,22,a,2010
+19,two seater,22,4,2,gas,27,a,2010
+19,two seater,23,4,2,gas,29,m,2010
+19,two seater,21,4,2.4,gas,24,a,2010
+19,two seater,22,4,2.4,gas,26,m,2010
+19,two seater,22,4,2,gas,27,a,2010
+19,two seater,23,4,2,gas,29,m,2010
+19,two seater,21,4,2.4,gas,24,a,2010
+19,two seater,22,4,2.4,gas,26,m,2010
+14,subcompact car,17,8,4.2,gas,22,m,2010
+16,subcompact car,19,8,4.2,gas,24,a,2010
+15,subcompact car,18,8,4.8,gas,22,m,2010
+15,subcompact car,18,8,4.8,gas,23,a,2010
+14,subcompact car,16,8,4.8,gas,21,m,2010
+15,subcompact car,18,8,4.8,gas,23,a,2010
+11,subcompact car,13,10,5,gas,17,m,2010
+11,subcompact car,13,10,5,gas,17,a,2010
+11,subcompact car,13,10,5,gas,17,m,2010
+11,subcompact car,13,10,5,gas,17,a,2010
+16,subcompact car,19,6,4,gas,24,a,2010
+18,subcompact car,21,6,4,gas,26,m,2010
+17,subcompact car,19,8,4.6,gas,23,a,2010
+16,subcompact car,19,8,4.6,gas,24,m,2010
+14,subcompact car,17,8,5.4,gas,22,m,2010
+20,subcompact car,23,4,2,gas,30,a,2010
+21,subcompact car,24,4,2,gas,30,m,2010
+17,subcompact car,21,6,3.8,gas,27,a,2010
+17,subcompact car,20,6,3.8,gas,26,m,2010
+18,subcompact car,21,6,2.5,gas,26,m,2010
+21,subcompact car,24,6,2.5,gas,29,a,2010
+18,subcompact car,20,6,3.5,gas,25,a,2010
+15,subcompact car,17,6,3.8,gas,21,a,2010
+14,subcompact car,17,8,4.6,gas,21,a,2010
+15,subcompact car,18,8,4.6,gas,23,m,2010
+21,subcompact car,24,4,2.4,gas,29,a,2010
+20,subcompact car,23,4,2.4,gas,27,m,2010
+40,compact car,41,4,1.3,gas,43,a,2010
+40,compact car,41,4,1.3,gas,43,a,2010
+27,compact car,30,4,2,gas,36,a,2010
+25,compact car,28,4,2,gas,34,a,2010
+25,compact car,28,4,2,gas,34,m,2010
+23,compact car,26,4,2.4,gas,31,a,2010
+22,compact car,26,4,2.4,gas,32,m,2010
+25,compact car,28,4,2,gas,33,m,2010
+24,compact car,27,4,2,gas,33,a,2010
+21,compact car,24,4,2.5,gas,29,m,2010
+22,compact car,25,4,2.5,gas,29,a,2010
+26,compact car,29,4,1.8,gas,34,a,2010
+19,two seater,22,6,3,gas,28,m,2011
+18,two seater,22,6,3,gas,28,a,2011
+19,two seater,21,6,3,gas,26,m,2011
+17,two seater,19,6,3,gas,23,a,2011
+17,two seater,19,6,3,gas,23,a,2011
+14,two seater,17,8,5.5,gas,22,a,2011
+12,two seater,14,8,6.3,gas,19,a,2011
+12,two seater,14,12,6,gas,18,a,2011
+14,two seater,16,8,6.2,gas,20,a,2011
+16,minicompact car,19,8,5,gas,24,a,2011
+15,minicompact car,17,8,5,gas,22,a,2011
+16,minicompact car,18,8,5,gas,22,a,2011
+20,minicompact car,23,4,2.4,gas,27,a,2011
+16,minicompact car,19,6,3.8,gas,24,a,2011
+19,subcompact car,22,6,3,gas,28,m,2011
+18,subcompact car,21,6,3,gas,26,a,2011
+19,subcompact car,22,6,3,gas,28,m,2011
+18,subcompact car,22,6,3,gas,28,a,2011
+20,subcompact car,23,6,3,gas,28,m,2011
+18,subcompact car,20,6,3,gas,25,a,2011
+19,subcompact car,22,6,3,gas,28,m,2011
+18,subcompact car,20,6,3,gas,25,a,2011
+19,subcompact car,22,6,3,gas,28,m,2011
+18,subcompact car,22,6,3,gas,28,a,2011
+17,subcompact car,20,6,3,gas,26,m,2011
+18,subcompact car,21,6,3,gas,26,a,2011
+17,subcompact car,20,6,3,gas,25,m,2011
+18,subcompact car,20,6,3,gas,25,a,2011
+19,subcompact car,22,6,3,gas,28,m,2011
+19,subcompact car,22,6,3,gas,28,a,2011
+19,subcompact car,22,6,3,gas,28,m,2011
+19,subcompact car,22,6,3,gas,28,a,2011
+19,subcompact car,21,6,3,gas,26,m,2011
+18,subcompact car,21,6,3,gas,26,a,2011
+18,subcompact car,21,6,3,gas,26,m,2011
+17,subcompact car,19,6,3,gas,23,a,2011
+18,subcompact car,21,6,3,gas,26,m,2011
+17,subcompact car,19,6,3,gas,23,a,2011
+14,subcompact car,16,8,4,gas,20,m,2011
+14,subcompact car,16,8,4,gas,20,a,2011
+14,subcompact car,16,8,4,gas,21,m,2011
+14,subcompact car,16,8,4,gas,20,a,2011
+28,subcompact car,31,4,1.6,gas,36,m,2011
+29,subcompact car,32,4,1.6,gas,37,a,2011
+29,subcompact car,33,4,1.6,gas,38,a,2011
+15,subcompact car,17,8,5.4,gas,23,m,2011
+19,subcompact car,23,6,3.7,gas,30,a,2011
+19,subcompact car,22,6,3.7,gas,28,m,2011
+17,subcompact car,20,8,5,gas,26,m,2011
+18,subcompact car,20,8,5,gas,25,a,2011
+13,two seater,15,10,5.2,gas,19,a,2012
+12,two seater,14,10,5.2,gas,19,m,2012
+13,two seater,15,10,5.2,gas,19,a,2012
+12,two seater,14,10,5.2,gas,19,m,2012
+12,two seater,14,12,6,gas,19,a,2012
+11,two seater,13,12,6.5,gas,17,a,2012
+11,two seater,13,10,4.8,gas,16,a,2012
+19,two seater,21,6,3.8,gas,26,a,2012
+20,two seater,23,6,2.9,gas,29,a,2012
+19,two seater,22,6,2.9,gas,26,m,2012
+20,two seater,23,6,3.4,gas,29,a,2012
+19,two seater,21,6,3.4,gas,26,m,2012
+20,two seater,23,6,3.4,gas,29,a,2012
+19,two seater,22,6,3.4,gas,26,m,2012
+20,two seater,23,6,2.9,gas,29,a,2012
+19,two seater,22,6,2.9,gas,26,m,2012
+20,two seater,23,6,3.4,gas,29,a,2012
+19,two seater,22,6,3.4,gas,26,m,2012
+20,two seater,23,6,3.4,gas,29,a,2012
+19,two seater,21,6,3.4,gas,26,m,2012
+13,minicompact car,15,12,5.9,gas,20,a,2012
+11,minicompact car,13,12,5.9,gas,17,m,2012
+12,minicompact car,14,12,5.9,gas,18,a,2012
+11,minicompact car,13,12,5.9,gas,17,m,2012
+13,minicompact car,15,12,5.9,gas,18,a,2012
+27,minicompact car,29,4,1.4,gas,33,a,2012
+30,minicompact car,32,4,1.4,gas,37,m,2012
+27,minicompact car,29,4,1.4,gas,32,a,2012
+20,minicompact car,23,4,2.4,gas,27,a,2012
+16,minicompact car,19,6,3.8,gas,24,a,2012
+19,minicompact car,22,6,3.6,gas,27,a,2012
+18,minicompact car,21,6,3.6,gas,25,m,2012
+18,minicompact car,21,6,3.6,gas,26,a,2012
+18,minicompact car,21,6,3.6,gas,24,m,2012
+18,minicompact car,21,6,3.6,gas,26,a,2012
+18,minicompact car,21,6,3.6,gas,25,m,2012
+18,minicompact car,21,6,3.6,gas,26,a,2012
+18,minicompact car,21,6,3.6,gas,25,m,2012
+18,minicompact car,21,6,3.8,gas,26,a,2012
+18,minicompact car,21,6,3.8,gas,25,m,2012
+19,minicompact car,21,6,3.8,gas,26,a,2012
+18,minicompact car,20,6,3.8,gas,24,m,2012
+19,minicompact car,21,6,3.8,gas,26,a,2012
+18,minicompact car,20,6,3.8,gas,24,m,2012
+19,minicompact car,21,6,3.6,gas,26,a,2012
+18,minicompact car,21,6,3.6,gas,25,m,2012
+19,minicompact car,21,6,3.8,gas,26,a,2012
+18,minicompact car,20,6,3.8,gas,25,m,2012
+19,minicompact car,21,6,3.8,gas,26,a,2012
+18,minicompact car,21,6,3.8,gas,26,m,2012
+16,subcompact car,19,6,3.8,gas,23,a,2013
+22,compact car,25,4,2,gas,31,a,2013
+17,compact car,21,6,3.6,gas,27,a,2013
+17,compact car,20,6,3.6,gas,25,a,2013
+25,midsize car,29,4,2.4,gas,36,a,2013
+19,midsize car,23,6,3.5,gas,28,a,2013
+19,midsize car,21,6,3.5,gas,26,a,2013
+25,small sport utility vehicle,27,4,2,gas,30,a,2013
+16,standard sport utility vehicle,19,6,3.2,gas,23,a,2013
+16,standard sport utility vehicle,18,6,3.2,gas,22,a,2013
+17,subcompact car,21,4,2,gas,27,a,2013
+21,subcompact car,24,4,2,gas,29,m,2013
+16,subcompact car,19,6,3.8,gas,25,a,2013
+18,subcompact car,21,6,3.8,gas,27,m,2013
+21,compact car,25,4,2,gas,32,m,2013
+18,large car,21,6,3.7,gas,26,a,2013
+17,large car,20,6,3.5,gas,25,a,2013
+18,large car,21,6,3.7,gas,27,a,2013
+20,standard sport utility vehicle,23,4,2,gas,27,a,2013
+26,small sport utility vehicle,28,4,2,gas,32,a,2013
+26,small sport utility vehicle,29,4,2,gas,34,m,2013
+12,standard sport utility vehicle,14,8,5.7,gas,17,a,2013
+13,standard sport utility vehicle,15,8,5.7,gas,18,a,2013
+18,midsize car,21,6,3.7,gas,27,a,2013
+18,large car,21,6,3.5,gas,26,a,2013
+17,large car,20,6,3.5,gas,25,a,2013
+18,large car,21,6,3.5,gas,26,a,2013
+19,large car,22,6,3.5,gas,28,a,2013
+21,small sport utility vehicle,24,4,2,gas,29,a,2013
+19,small sport utility vehicle,22,6,3.5,gas,27,a,2013
+19,small sport utility vehicle,21,6,3.7,gas,26,a,2013
+19,small sport utility vehicle,21,6,3.7,gas,26,a,2013
+18,small sport utility vehicle,20,6,3.5,gas,25,a,2013
+17,small sport utility vehicle,19,6,3.7,gas,23,a,2013
+17,standard sport utility vehicle,19,6,3.5,gas,23,a,2013
+17,small sport utility vehicle,19,6,3.7,gas,23,a,2013
+19,subcompact car,23,6,3.7,gas,30,a,2013
+19,subcompact car,22,6,3.7,gas,29,m,2013
+18,subcompact car,20,8,5,gas,25,a,2013
+16,subcompact car,19,8,5,gas,25,m,2013
+19,subcompact car,23,6,3.7,gas,29,a,2013
+28,compact car,31,4,1.6,gas,36,a,2013
+29,compact car,32,4,1.6,gas,37,m,2013
+30,compact car,32,4,1.6,gas,36,a,2013
+28,midsize car,32,4,1.8,gas,38,a,2013
+28,midsize car,32,4,1.8,gas,38,m,2013
+28,midsize car,32,4,1.8,gas,38,a,2013
+27,midsize car,31,4,1.8,gas,37,a,2013
+28,midsize car,32,4,1.8,gas,38,m,2013
+21,midsize car,24,4,2.5,gas,30,a,2013
+25,midsize car,29,4,2.5,gas,36,m,2014
+26,midsize car,30,4,2.5,gas,37,a,2014
+25,small sport utility vehicle,27,4,2.5,gas,31,a,2014
+26,small sport utility vehicle,29,4,2,gas,34,m,2014
+26,small sport utility vehicle,28,4,2,gas,32,a,2014
+24,small sport utility vehicle,26,4,2.5,gas,29,a,2014
+25,small sport utility vehicle,27,4,2,gas,30,a,2014
+19,subcompact car,22,6,3.7,gas,29,m,2014
+19,subcompact car,23,6,3.7,gas,30,a,2014
+15,subcompact car,18,8,5.8,gas,24,m,2014
+18,subcompact car,20,8,5,gas,25,a,2014
+22,small sport utility vehicle,24,4,2.5,gas,28,m,2014
+24,small sport utility vehicle,27,4,2.5,gas,31,a,2014
+23,small sport utility vehicle,25,4,2,gas,27,a,2014
+19,subcompact car,23,6,3.7,gas,29,a,2014
+16,subcompact car,19,8,5,gas,25,m,2014
+16,subcompact car,19,6,3.8,gas,23,a,2014
+20,small sport utility vehicle,22,4,2.4,gas,26,a,2014
+19,small sport utility vehicle,21,4,2.4,gas,27,m,2014
+18,small sport utility vehicle,21,6,3.3,gas,25,a,2014
+19,small sport utility vehicle,21,4,2.4,gas,24,a,2014
+18,small sport utility vehicle,20,6,3.3,gas,23,a,2014
+17,small sport utility vehicle,19,6,3.5,gas,22,a,2014
+13,two seater,16,10,5.2,gas,22,a,2014
+13,two seater,16,10,5.2,gas,22,a,2014
+14,two seater,17,8,4.2,gas,23,a,2014
+14,two seater,17,8,4.2,gas,23,a,2014
+12,two seater,14,10,5.2,gas,19,m,2014
+12,two seater,14,10,5.2,gas,19,m,2014
+11,two seater,14,8,4.2,gas,20,m,2014
+11,two seater,14,8,4.2,gas,20,m,2014
+13,minicompact car,15,12,5.9,gas,19,a,2014
+13,minicompact car,15,12,5.9,gas,19,a,2014
+13,subcompact car,15,12,5.9,gas,19,a,2014
+14,subcompact car,17,8,5,gas,22,m,2014
+21,small sport utility vehicle,24,4,2.4,gas,28,a,2014
+21,small sport utility vehicle,24,4,2.4,gas,28,a,2014
+21,small sport utility vehicle,24,4,2,gas,28,a,2014
+21,small sport utility vehicle,24,4,2,gas,28,a,2014
+23,small sport utility vehicle,25,4,2.4,gas,28,m,2014
+23,small sport utility vehicle,25,4,2.4,gas,28,m,2014
+23,small sport utility vehicle,25,4,2,gas,30,m,2014
+21,small sport utility vehicle,23,4,2.4,gas,27,a,2014
+21,small sport utility vehicle,23,4,2.4,gas,27,a,2014
+23,small sport utility vehicle,25,4,2.4,gas,28,m,2014
+23,small sport utility vehicle,25,4,2.4,gas,28,m,2014
+13,standard sport utility vehicle,15,8,6.4,gas,19,a,2014
+14,standard sport utility vehicle,17,8,4.8,gas,21,a,2014
+15,subcompact car,17,8,5,gas,22,a,2014
+13,standard sport utility vehicle,15,8,4.8,gas,20,a,2014
+16,subcompact car,19,6,3.8,gas,23,a,2015
+20,compact car,23,5,2.5,gas,28,a,2015
+26,midsize car,30,4,2.5,gas,37,a,2015
+28,midsize car,32,4,2.5,gas,39,a,2015
+25,midsize car,29,4,2.5,gas,35,m,2015
+18,large car,21,6,3.8,gas,26,a,2015
+15,large car,18,8,5,gas,23,a,2015
+18,small sport utility vehicle,21,6,3.3,gas,25,a,2015
+26,small sport utility vehicle,28,4,2,gas,32,a,2015
+26,small sport utility vehicle,29,4,2,gas,34,m,2015
+25,small sport utility vehicle,27,4,2.5,gas,31,a,2015
+19,small sport utility vehicle,21,4,2.4,gas,25,a,2015
+18,small sport utility vehicle,20,6,3.3,gas,23,a,2015
+25,small sport utility vehicle,27,4,2,gas,30,a,2015
+24,small sport utility vehicle,26,4,2.5,gas,29,a,2015
+17,small sport utility vehicle,20,6,3,gas,24,a,2015
+17,small sport utility vehicle,20,6,3,gas,24,a,2015
+22,two seater,26,4,2,gas,31,a,2015
+22,subcompact car,26,4,2,gas,31,a,2015
+21,compact car,24,4,2,gas,28,m,2015
+17,compact car,19,4,2.5,gas,23,m,2015
+19,compact car,22,6,3,gas,28,a,2015
+19,midsize car,22,6,3,gas,28,a,2015
+20,small station wagon,23,5,2.5,gas,28,a,2015
+19,small station wagon,22,6,3,gas,28,a,2015
+16,standard pickup truck,19,8,5.3,gas,23,a,2015
+16,standard pickup truck,19,8,5.3,gas,23,a,2015
+16,standard pickup truck,18,8,5.3,gas,22,a,2015
+16,standard pickup truck,18,8,5.3,gas,22,a,2015
+20,small sport utility vehicle,23,4,2.4,gas,27,a,2015
+15,standard sport utility vehicle,17,8,6.2,gas,21,a,2015
+15,standard sport utility vehicle,17,8,6.2,gas,21,a,2015
+16,standard sport utility vehicle,18,8,5.3,gas,23,a,2015
+16,standard sport utility vehicle,18,8,5.3,gas,23,a,2015
+15,standard sport utility vehicle,17,8,6.2,gas,21,a,2015
+15,standard sport utility vehicle,17,8,6.2,gas,21,a,2015
+16,standard sport utility vehicle,18,8,5.3,gas,23,a,2015
+16,standard sport utility vehicle,18,8,5.3,gas,23,a,2015
+14,standard sport utility vehicle,16,8,6.2,gas,21,a,2015
+14,standard sport utility vehicle,16,8,6.2,gas,20,a,2015
+16,standard sport utility vehicle,18,8,5.3,gas,22,a,2015
+15,standard sport utility vehicle,18,8,5.3,gas,22,a,2015
+14,standard sport utility vehicle,16,8,6.2,gas,20,a,2015
+14,standard sport utility vehicle,16,8,6.2,gas,21,a,2015
+15,standard sport utility vehicle,18,8,5.3,gas,22,a,2015
+16,standard sport utility vehicle,18,8,5.3,gas,22,a,2015
+16,two seater,18,8,5,gas,23,a,2015
+16,two seater,18,8,5,gas,23,a,2015
+20,two seater,23,6,3,gas,28,a,2015
+20,two seater,23,6,3,gas,28,a,2015
+26,midsize car,30,4,2.5,gas,37,a,2016
+28,midsize car,32,4,2.5,gas,38,a,2016
+25,midsize car,29,4,2.5,gas,36,m,2016
+18,small sport utility vehicle,21,6,3.3,gas,25,a,2016
+20,small sport utility vehicle,23,4,2,gas,27,a,2016
+21,small sport utility vehicle,24,4,2.4,gas,28,a,2016
+18,small sport utility vehicle,20,6,3.3,gas,25,a,2016
+26,small sport utility vehicle,29,4,2,gas,34,m,2016
+26,small sport utility vehicle,29,4,2.5,gas,33,a,2016
+19,small sport utility vehicle,21,4,2,gas,25,a,2016
+21,small sport utility vehicle,22,4,2.4,gas,25,a,2016
+17,small sport utility vehicle,19,6,3.3,gas,23,a,2016
+24,small sport utility vehicle,26,4,2.5,gas,29,a,2016
+20,midsize car,24,6,3,gas,29,a,2016
+20,midsize car,24,6,3,gas,29,a,2016
+25,small sport utility vehicle,28,4,1.8,gas,33,m,2016
+28,small sport utility vehicle,31,4,1.8,gas,34,a,2016
+28,small sport utility vehicle,31,4,1.8,gas,34,a,2016
+27,small sport utility vehicle,29,4,1.8,gas,32,a,2016
+27,small sport utility vehicle,29,4,1.8,gas,32,a,2016
+19,two seater,22,6,3,gas,27,a,2016
+19,two seater,22,6,3,gas,27,a,2016
+19,two seater,22,6,3,gas,27,a,2016
+19,two seater,22,6,3,gas,27,a,2016
+11,midsize car,14,8,6.8,gas,18,a,2016
+28,compact car,31,4,1.6,gas,35,a,2016
+27,compact car,30,4,1.6,gas,34,m,2016
+24,midsize car,27,4,2,gas,32,m,2016
+18,two seater,21,6,3,gas,26,a,2016
+18,two seater,21,6,3,gas,26,a,2016
+25,compact car,29,4,2.4,gas,35,a,2016
+24,midsize car,27,4,2,gas,32,a,2016
+16,two seater,18,8,5,gas,23,a,2016
+15,two seater,18,8,5,gas,23,a,2016
+15,two seater,18,8,5,gas,23,a,2016
+15,large car,18,8,5,gas,23,a,2016
+15,large car,18,8,5,gas,23,a,2016
+20,midsize car,23,6,3.5,gas,30,a,2016
+28,midsize car,30,6,3.5,gas,31,a,2016
+16,subcompact car,19,6,3.8,gas,22,a,2016
+26,compact car,29,4,1.6,gas,32,a,2016
+25,compact car,28,4,1.6,gas,33,m,2016
+15,large car,18,8,5,gas,23,a,2016
+18,minivan,20,6,3.3,gas,24,a,2016
+18,minivan,21,6,3.3,gas,25,a,2016
+17,minivan,19,6,3.3,gas,22,a,2016
+17,standard sport utility vehicle,20,6,3.6,gas,24,a,2016
+22,two seater,26,4,2,gas,32,a,2016
+22,two seater,26,4,2,gas,33,m,2016
+17,two seater,19,6,3,gas,23,a,2016
+20,small sport utility vehicle,23,4,2,gas,28,a,2017
+20,small sport utility vehicle,23,4,2,gas,27,a,2017
+19,small sport utility vehicle,22,4,2,gas,26,a,2017
+19,small sport utility vehicle,21,4,2,gas,24,a,2017
+19,standard sport utility vehicle,21,6,3,gas,25,a,2017
+29,midsize car,33,4,2,gas,38,a,2017
+28,midsize car,32,4,2,gas,37,a,2017
+26,midsize car,29,4,2,gas,36,m,2017
+18,small sport utility vehicle,21,6,3.3,gas,25,a,2017
+17,small sport utility vehicle,20,6,3.3,gas,23,a,2017
+18,small sport utility vehicle,20,6,3.3,gas,24,a,2017
+17,small sport utility vehicle,19,6,3.3,gas,22,a,2017
+21,small sport utility vehicle,24,4,2.4,gas,27,a,2017
+20,small sport utility vehicle,22,4,2.4,gas,26,a,2017
+22,small sport utility vehicle,25,4,2.4,gas,29,a,2017
+23,small sport utility vehicle,26,4,2.4,gas,30,a,2017
+21,small sport utility vehicle,23,4,2,gas,26,a,2017
+21,small sport utility vehicle,23,4,2.4,gas,25,a,2017
+21,small sport utility vehicle,22,4,2.4,gas,25,a,2017
+20,small sport utility vehicle,21,4,2,gas,23,a,2017
+19,small sport utility vehicle,22,6,3.6,gas,27,a,2017
+18,small sport utility vehicle,21,6,3.6,gas,26,a,2017
+33,compact car,36,3,1.2,gas,41,m,2017
+37,compact car,39,3,1.2,gas,43,a,2017
+18,minivan,22,6,3.6,gas,28,a,2017
+14,two seater,17,10,5.2,gas,22,a,2017
+14,two seater,17,10,5.2,gas,22,a,2017
+24,compact car,27,4,2,gas,31,a,2017
+25,compact car,28,4,2,gas,33,a,2017
+20,compact car,23,4,2,gas,27,m,2017
+18,compact car,21,4,2,gas,24,a,2017
+17,compact car,19,4,2.5,gas,23,m,2017
+19,large car,22,6,3,gas,28,a,2017
+20,small sport utility vehicle,23,6,3.5,gas,28,a,2017
+19,small sport utility vehicle,22,6,3.5,gas,27,a,2017
+43,compact car,42,4,1.5,gas,42,a,2017
+15,two seater,18,8,5,gas,23,a,2017
+15,two seater,18,8,5,gas,23,a,2017
+20,two seater,23,6,3,gas,28,a,2017
+20,two seater,23,6,3,gas,28,a,2017
+19,two seater,22,6,3,gas,27,a,2017
+19,two seater,22,6,3,gas,27,a,2017
+18,two seater,21,6,3,gas,26,a,2017
+18,two seater,21,6,3,gas,26,a,2017
+16,two seater,19,6,3,gas,24,m,2017
+16,two seater,19,6,3,gas,24,m,2017
+15,two seater,18,6,3,gas,24,m,2017
+15,two seater,18,6,3,gas,24,m,2017
+22,minicompact car,25,4,2,gas,31,m,2017
+21,subcompact car,24,6,3,gas,30,a,2017
+26,small sport utility vehicle,28,4,1.5,gas,32,a,2018
+24,small sport utility vehicle,26,4,1.5,gas,30,a,2018
+24,subcompact car,27,4,2,gas,34,a,2018
+24,subcompact car,27,4,2,gas,33,m,2018
+24,compact car,27,4,2,gas,34,a,2018
+24,compact car,27,4,2,gas,33,m,2018
+21,compact car,23,4,2,gas,27,m,2018
+18,compact car,21,4,2,gas,24,a,2018
+24,midsize car,27,4,2,gas,34,a,2018
+18,large car,20,6,3.8,gas,25,a,2018
+19,large car,22,6,3.8,gas,27,a,2018
+23,small sport utility vehicle,25,4,2,gas,27,a,2018
+24,subcompact car,27,4,2,gas,34,a,2018
+21,subcompact car,24,6,3,gas,30,a,2018
+20,subcompact car,23,6,3,gas,29,a,2018
+21,compact car,24,6,3,gas,30,a,2018
+21,midsize car,24,6,3,gas,30,a,2018
+17,large car,20,6,3.3,gas,24,a,2018
+17,large car,20,6,3.3,gas,25,a,2018
+19,small sport utility vehicle,21,6,3,gas,24,a,2018
+12,standard sport utility vehicle,15,12,6,gas,19,a,2018
+24,subcompact car,27,4,2,gas,34,a,2018
+22,subcompact car,26,4,2,gas,32,a,2018
+21,subcompact car,24,6,3,gas,29,a,2018
+20,subcompact car,23,6,3,gas,29,a,2018
+17,subcompact car,20,6,3,gas,25,m,2018
+16,subcompact car,19,6,3,gas,22,a,2018
+20,subcompact car,23,6,3,gas,29,a,2018
+19,subcompact car,22,6,3,gas,28,a,2018
+17,subcompact car,20,8,4.4,gas,25,a,2018
+16,subcompact car,19,8,4.4,gas,25,a,2018
+15,subcompact car,17,8,4.4,gas,22,m,2018
+14,subcompact car,16,8,4.4,gas,20,a,2018
+24,compact car,27,4,2,gas,34,a,2018
+21,compact car,25,4,2,gas,33,m,2018
+23,compact car,27,4,2,gas,33,a,2018
+24,compact car,27,4,2,gas,34,a,2018
+23,compact car,27,4,2,gas,33,a,2018
+21,compact car,25,6,3,gas,32,a,2018
+21,compact car,25,6,3,gas,31,a,2018
+19,compact car,23,6,3,gas,29,m,2018
+21,compact car,25,6,3,gas,32,a,2018
+21,compact car,25,6,3,gas,31,a,2018
+17,compact car,20,6,3,gas,25,m,2018
+17,compact car,20,6,3,gas,24,a,2018
+20,compact car,23,6,3,gas,29,a,2018
+19,compact car,22,6,3,gas,28,a,2018
+17,compact car,20,8,4.4,gas,25,a,2018
+16,compact car,19,8,4.4,gas,25,a,2018
+16,compact car,19,8,4.4,gas,25,a,2018
+20,small sport utility vehicle,23,6,3.2,gas,29,a,2019
+19,small sport utility vehicle,22,6,3.2,gas,27,a,2019
+18,small sport utility vehicle,21,6,3.2,gas,26,a,2019
+18,small sport utility vehicle,21,6,3.2,gas,24,a,2019
+16,two seater,19,8,6.2,gas,25,m,2019
+15,two seater,18,8,6.2,gas,25,a,2019
+14,two seater,17,8,6.2,gas,23,a,2019
+30,compact car,34,4,1.4,gas,40,a,2019
+30,compact car,34,4,1.4,gas,40,m,2019
+22,small sport utility vehicle,25,4,2.4,gas,29,a,2019
+24,small sport utility vehicle,27,4,2,gas,31,a,2019
+19,small sport utility vehicle,22,6,3.3,gas,26,a,2019
+24,small sport utility vehicle,26,4,2,gas,30,a,2019
+21,small sport utility vehicle,23,4,2.4,gas,26,a,2019
+19,small sport utility vehicle,21,6,3.3,gas,24,a,2019
+15,two seater,17,8,6.2,gas,22,m,2019
+18,minivan,21,6,3.3,gas,24,a,2019
+23,small sport utility vehicle,26,4,2,gas,31,a,2019
+22,small sport utility vehicle,25,4,2.4,gas,31,a,2019
+21,small sport utility vehicle,24,4,2,gas,29,a,2019
+21,small sport utility vehicle,24,4,2.4,gas,29,a,2019
+20,small sport utility vehicle,22,4,2,gas,26,a,2019
+20,small sport utility vehicle,23,4,2,gas,27,a,2019
+17,compact car,20,6,3.3,gas,25,a,2019
+17,compact car,20,6,3.3,gas,26,a,2019
+21,compact car,23,4,2,gas,28,a,2019
+22,compact car,25,4,2,gas,30,a,2019
+18,compact car,22,4,2,gas,28,m,2019
+20,small sport utility vehicle,22,4,2,gas,25,a,2019
+19,small pickup truck,22,6,3.5,gas,26,a,2019
+18,standard pickup truck,21,6,3.5,gas,25,a,2019
+23,small sport utility vehicle,26,4,2,gas,31,a,2019
+27,compact car,30,4,2,gas,34,a,2019
+25,compact car,28,4,2,gas,33,m,2019
+28,compact car,30,4,1.6,gas,34,a,2019
+26,compact car,29,4,1.6,gas,33,m,2019
+15,standard pickup truck,17,8,5.7,gas,22,a,2019
+15,standard pickup truck,17,8,5.7,gas,21,a,2019
+22,small sport utility vehicle,25,4,2.5,gas,29,a,2019
+21,small sport utility vehicle,24,4,2.5,gas,27,a,2019
+23,compact car,26,4,2.4,gas,32,a,2019
+20,compact car,23,6,3.5,gas,30,a,2019
+20,compact car,23,6,3.5,gas,29,a,2019
+20,compact car,23,6,3.5,gas,29,a,2019
+13,two seater,15,8,6.2,gas,19,m,2019
+12,two seater,15,8,6.2,gas,20,a,2019
+27,minicompact car,30,3,1.5,gas,35,a,2019
+28,minicompact car,31,3,1.5,gas,37,m,2019
+25,minicompact car,28,4,2,gas,33,a,2019
+23,minicompact car,26,4,2,gas,32,m,2019
+31,compact car,34,4,2,gas,40,a,2020
+53,compact car,52,4,1.8,gas,52,a,2020
+29,compact car,32,4,2,gas,36,m,2020
+31,compact car,34,4,2,gas,38,a,2020
+30,compact car,33,4,1.8,gas,38,a,2020
+29,compact car,33,4,1.8,gas,39,m,2020
+29,compact car,32,4,1.8,gas,37,a,2020
+27,small station wagon,30,4,2,gas,33,a,2020
+29,small station wagon,31,4,2,gas,35,a,2020
+25,small station wagon,27,4,2,gas,31,m,2020
+27,small station wagon,29,4,1.6,gas,32,a,2020
+23,small sport utility vehicle,26,4,2.4,gas,30,a,2020
+20,small sport utility vehicle,23,4,2,gas,28,a,2020
+20,small sport utility vehicle,23,6,3.8,gas,26,a,2020
+22,small sport utility vehicle,23,4,2.4,gas,26,a,2020
+19,small sport utility vehicle,21,4,2,gas,24,a,2020
+19,small sport utility vehicle,21,6,3.8,gas,24,a,2020
+19,small sport utility vehicle,22,4,2,gas,26,a,2020
+19,standard sport utility vehicle,21,6,3,gas,24,a,2020
+23,two seater,26,4,2,gas,30,a,2020
+23,two seater,26,4,2,gas,30,a,2020
+25,compact car,28,4,2,gas,34,a,2020
+24,compact car,27,4,2,gas,32,a,2020
+24,compact car,28,4,2,gas,34,a,2020
+22,compact car,25,4,2,gas,30,a,2020
+25,midsize car,28,4,2,gas,34,a,2020
+23,midsize car,26,4,2,gas,31,a,2020
+23,midsize car,27,4,2,gas,33,a,2020
+22,midsize car,25,4,2,gas,31,a,2020
+21,midsize station wagon,24,4,2,gas,28,a,2020
+21,small sport utility vehicle,24,4,2,gas,28,a,2020
+21,small sport utility vehicle,23,4,2,gas,27,a,2020
+22,small sport utility vehicle,24,4,2,gas,27,a,2020
+22,small sport utility vehicle,24,4,2,gas,27,a,2020
+21,small sport utility vehicle,23,4,2,gas,27,a,2020
+20,small sport utility vehicle,22,4,2,gas,26,a,2020
+20,two seater,23,6,3,gas,28,a,2020
+20,two seater,23,6,3,gas,28,a,2020
+19,two seater,22,6,3,gas,27,a,2020
+19,two seater,22,6,3,gas,27,a,2020
+18,two seater,21,6,3,gas,26,a,2020
+18,two seater,21,6,3,gas,26,a,2020
+20,midsize car,23,6,3,gas,28,a,2020
+18,midsize station wagon,21,6,3,gas,25,a,2020
+18,small sport utility vehicle,20,6,3,gas,23,a,2020
+16,small sport utility vehicle,18,8,5,gas,21,a,2020
+20,small sport utility vehicle,23,4,2,gas,27,a,2020
+19,standard sport utility vehicle,21,6,3.8,gas,24,a,2020
+24,subcompact car,27,4,2,gas,32,a,2020
+30,midsize car,34,4,2,gas,40,a,2020
+29,small sport utility vehicle,31,4,2,gas,34,a,2021
+25,small sport utility vehicle,27,4,1.6,gas,30,a,2021
+27,small sport utility vehicle,29,4,2,gas,31,a,2021
+19,two seater,22,6,3,gas,27,a,2021
+19,two seater,22,6,3,gas,27,a,2021
+18,two seater,21,6,3,gas,26,a,2021
+18,two seater,21,6,3,gas,26,a,2021
+16,two seater,18,8,5,gas,24,a,2021
+16,two seater,18,8,5,gas,24,a,2021
+17,small sport utility vehicle,19,6,3.6,gas,23,a,2021
+16,standard sport utility vehicle,18,6,3.6,gas,22,a,2021
+20,compact car,23,4,2,gas,27,a,2021
+22,compact car,25,4,2,gas,30,a,2021
+18,compact car,22,4,2,gas,28,m,2021
+28,small station wagon,30,4,2,gas,33,a,2021
+29,small station wagon,31,4,2,gas,35,a,2021
+25,small station wagon,27,4,2,gas,31,m,2021
+27,small station wagon,29,4,1.6,gas,32,a,2021
+21,small sport utility vehicle,22,4,2,gas,24,a,2021
+26,small sport utility vehicle,28,3,1.3,gas,30,a,2021
+17,compact car,20,6,3.3,gas,25,a,2021
+17,compact car,20,6,3.3,gas,26,a,2021
+28,small sport utility vehicle,29,3,1.2,gas,31,a,2021
+29,small sport utility vehicle,31,3,1.3,gas,33,a,2021
+28,small sport utility vehicle,29,3,1.2,gas,31,a,2021
+28,minicompact car,31,3,1.5,gas,37,a,2021
+26,minicompact car,29,4,2,gas,34,a,2021
+23,minicompact car,26,4,2,gas,32,m,2021
+25,minicompact car,28,4,2,gas,33,a,2021
+28,subcompact car,31,3,1.5,gas,37,a,2021
+28,subcompact car,31,3,1.5,gas,37,a,2021
+23,subcompact car,27,4,2,gas,33,m,2021
+23,subcompact car,27,4,2,gas,33,m,2021
+26,subcompact car,29,4,2,gas,34,a,2021
+23,subcompact car,27,4,2,gas,33,m,2021
+24,subcompact car,26,4,2,gas,30,a,2021
+51,compact car,48,4,1.5,gas,45,a,2021
+27,compact car,30,4,2,gas,34,a,2021
+25,compact car,28,4,2,gas,33,m,2021
+28,compact car,30,4,1.6,gas,34,a,2021
+26,compact car,29,4,1.6,gas,33,m,2021
+55,midsize car,52,4,1.5,gas,49,a,2021
+17,large car,19,8,4.4,gas,24,a,2021
+17,large car,19,8,4.4,gas,24,a,2021
+19,small pickup truck,22,4,2.5,gas,25,a,2021
+18,small pickup truck,21,6,3.6,gas,25,a,2021
+19,small pickup truck,22,4,2.5,gas,25,a,2021
+18,small pickup truck,21,6,3.6,gas,25,a,2021
+19,small pickup truck,21,4,2.5,gas,24,a,2021
+17,small pickup truck,19,6,3.6,gas,24,a,2021
+19,minivan,22,6,3.5,gas,28,a,2022
+21,midsize car,24,4,2.5,gas,29,a,2022
+22,midsize car,25,4,2.5,gas,32,a,2022
+17,midsize car,20,6,3.3,gas,24,a,2022
+18,midsize car,20,6,3.3,gas,25,a,2022
+19,minivan,22,6,3.5,gas,26,a,2022
+19,small sport utility vehicle,22,6,3.5,gas,26,a,2022
+26,small sport utility vehicle,29,4,2.5,gas,33,a,2022
+25,small sport utility vehicle,26,4,1.5,gas,28,a,2022
+26,small sport utility vehicle,27,4,1.5,gas,29,a,2022
+19,small sport utility vehicle,21,6,3.5,gas,25,a,2022
+25,small sport utility vehicle,25,4,1.5,gas,26,a,2022
+25,small sport utility vehicle,26,4,1.5,gas,28,a,2022
+18,compact car,21,6,3.3,gas,27,a,2022
+20,small sport utility vehicle,23,4,2,gas,28,a,2022
+23,small sport utility vehicle,26,4,2.4,gas,30,a,2022
+24,small sport utility vehicle,27,4,2.5,gas,31,a,2022
+19,small sport utility vehicle,21,6,3.5,gas,25,a,2022
+24,small sport utility vehicle,26,4,2.5,gas,29,a,2022
+19,small sport utility vehicle,21,4,2,gas,24,a,2022
+22,small sport utility vehicle,23,4,2.4,gas,26,a,2022
+24,small sport utility vehicle,26,4,2.5,gas,30,a,2022
+29,small sport utility vehicle,32,4,1.6,gas,35,a,2022
+30,small sport utility vehicle,32,4,2,gas,35,a,2022
+27,small sport utility vehicle,29,4,1.6,gas,32,a,2022
+28,small sport utility vehicle,30,4,2,gas,33,a,2022
+29,minicompact car,32,3,1.5,gas,38,a,2022
+27,minicompact car,31,3,1.5,gas,37,m,2022
+23,minicompact car,26,4,2,gas,33,m,2022
+15,subcompact car,17,8,4.4,gas,21,a,2022
+15,subcompact car,17,8,4.4,gas,21,a,2022
+29,subcompact car,32,3,1.5,gas,38,a,2022
+27,subcompact car,31,3,1.5,gas,37,m,2022
+29,subcompact car,32,3,1.5,gas,38,a,2022
+27,subcompact car,31,3,1.5,gas,37,m,2022
+23,subcompact car,27,4,2,gas,33,m,2022
+23,subcompact car,27,4,2,gas,33,m,2022
+22,subcompact car,25,4,2,gas,31,m,2022
+17,compact car,20,6,3.3,gas,25,a,2022
+24,midsize car,27,4,2,gas,31,a,2022
+23,midsize car,26,4,2,gas,30,a,2022
+15,midsize car,17,8,4.4,gas,21,a,2022
+15,midsize car,17,8,4.4,gas,21,a,2022
+26,midsize car,29,3,1.5,gas,33,a,2022
+23,midsize car,26,3,1.5,gas,30,a,2022
+23,midsize car,26,4,2,gas,33,m,2022
+37,small sport utility vehicle,37,4,1.6,gas,36,a,2022
+38,small sport utility vehicle,38,4,1.6,gas,38,a,2022
+17,subcompact car,20,8,4.4,gas,25,a,2022
+17,subcompact car,19,8,4.4,gas,24,a,2022
