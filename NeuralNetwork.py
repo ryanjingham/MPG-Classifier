@@ -38,23 +38,49 @@ class NeuralNetwork:
         return x * (1 - x)
 
     def train(self, X, y, epochs):
-        print(f"X : {X[0]}")
+        # Initialize an array to keep track of the errors for each epoch
         errors = []
+        # Loop through each epoch
         for epoch in range(epochs):
             logging.debug(f"Epoch {epoch+1}/{epochs}")
             # Feed forward through the network
+            # Initialize the activations with the input layer
             activations = [X]
+            # Initialize the list of weighted sums (z)
+            zs = []
+            # Loop through each layer
             for i in range(len(self.weights)):
+                # Calculate the weighted sum for the current layer
                 z = np.dot(activations[-1], self.weights[i]) + self.biases[i]
+                # Apply the sigmoid activation function to the weighted sum
                 a = self.sigmoid(z)
+                # Append the activation to the list of activations
                 activations.append(a)
+                # Append the weighted sum to the list of zs
+                zs.append(z)
 
             # Compute the error
             error = activations[-1] - y
             logging.debug(f"Error: {error}")
+            # Append the mean absolute error to the list of errors
             errors.append(np.mean(np.abs(error)))
-            
+
+            # Backpropagation
+            # Compute the delta for the output layer
+            delta = error * self.sigmoid_derivative(activations[-1])
+            # Loop through each layer in reverse order
+            for i in range(len(self.weights)-1, -1, -1):
+                # Update the weights for the current layer
+                self.weights[i] -= self.learning_rate * np.dot(activations[i].T, delta)
+                # Update the biases for the current layer
+                self.biases[i] -= self.learning_rate * np.sum(delta, axis=0, keepdims=True)
+                # Compute the delta for the current layer
+                delta = np.dot(delta, self.weights[i].T) * self.sigmoid_derivative(activations[i])
+
+        # Return the list of errors for each epoch
         return errors
+
+
         
         
     def predict(self, X):

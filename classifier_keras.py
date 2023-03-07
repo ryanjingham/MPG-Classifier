@@ -5,6 +5,7 @@ from sklearn.preprocessing import StandardScaler, OneHotEncoder
 import keras
 from keras.models import Sequential
 from keras.layers import Dense
+from keras import optimizers
 import matplotlib.pyplot as plt
 import time
 import os
@@ -34,7 +35,8 @@ def build_model(input_shape):
     model.add(Dense(8, activation='relu', input_shape=(input_shape.shape[1],)))
     model.add(Dense(8, activation='relu'))
     model.add(Dense(1, activation='linear'))
-    model.compile(optimizer='adam', loss='mean_squared_error')
+    adam = optimizers.Adam(learning_rate=0.01)
+    model.compile(optimizer=adam, loss='mean_squared_error')
     return model
 
 def train_model(model, X_train, y_train):
@@ -46,8 +48,8 @@ def evaluate_model(model, X_test, y_test):
     return test_loss
 
 
-def predict(model, X_test):
-    return model.predict(X_test)
+def predict(df):
+    return model.predict(df)
 
 
 def plot_history(history):
@@ -59,10 +61,10 @@ def plot_history(history):
     plt.show()
 
 def save_model(model):
-    if not os.path.exists('models'):
-        os.makedirs('models')
+    if not os.path.exists('models_qa'):
+        os.makedirs('models_qa')
     time_str = time.strftime('%Y_%m_%d_%H_%M')
-    model.save(f"models/model_keras_{time_str}.h5")
+    model.save(f"models_qa/model_keras_latest.h5")
 
 def load_model(model_file):
     return keras.models.load_model(model_file)
