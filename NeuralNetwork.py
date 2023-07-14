@@ -1,115 +1,92 @@
-import logging
 import numpy as np
 import pandas as pd
-import pickle
 import matplotlib.pyplot as plt
-
-logging.basicConfig(filename='classifier_ai.log', level=logging.DEBUG, format="%(message)s")
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import MinMaxScaler
+from sklearn.metrics import mean_absolute_error, mean_squared_error
 
 
 class NeuralNetwork:
-    def __init__(self, input_shape, hidden_layer_sizes, output_shape, learning_rate=0.05):
+    def __init__(
+        self, input_shape, hidden_layer_size, output_shape, learning_rate=0.05
+    ):
         self.input_shape = input_shape
-        self.hidden_layer_sizes = hidden_layer_sizes
+        self.hidden_layer_size = hidden_layer_size
         self.output_shape = output_shape
         self.learning_rate = learning_rate
 
-        # Initialize the weights and biases for each layer
-        self.weights = []
-        self.biases = []
-        for i, layer_size in enumerate(self.hidden_layer_sizes + [self.output_shape]):
-            if i == 0:
-                input_size = self.input_shape
-            else:
-                input_size = self.hidden_layer_sizes[i-1]
-            self.weights.append(np.random.normal(0, 1, (input_size, layer_size)))
-            self.biases.append(np.zeros((1, layer_size)))
+        # Initialise the weights and biases for each layer with random values drawn from a normal distribution
+        self.weights = [
+            np.random.normal(0, 1, size=(self.input_shape, self.hidden_layer_size)),
+            np.random.normal(0, 1, size=(self.hidden_layer_size, self.output_shape)),
+        ]
+        self.biases = [
+            np.zeros((1, self.hidden_layer_size)),
+            np.zeros((1, self.output_shape)),
+        ]
 
     def sigmoid(self, x):
-        # Sigmoid activation function
-        # print(x)
-        exp_value = -x + 0.1
-        # print(exp_value)
-        sig = 1 / (1 + np.exp(exp_value))
-        return sig
+        return 1 / (1 + np.exp(-x))
 
     def sigmoid_derivative(self, x):
-        # Derivative of the sigmoid function
         return x * (1 - x)
 
     def train(self, X, y, epochs):
-        # Initialize an array to keep track of the errors for each epoch
         errors = []
-        # Loop through each epoch
         for epoch in range(epochs):
-            logging.debug(f"Epoch {epoch+1}/{epochs}")
-            # Feed forward through the network
-            # Initialize the activations with the input layer
             activations = [X]
-            # Initialize the list of weighted sums (z)
             zs = []
-            # Loop through each layer
             for i in range(len(self.weights)):
-                # Calculate the weighted sum for the current layer
+                # Forward pass
                 z = np.dot(activations[-1], self.weights[i]) + self.biases[i]
-                # Apply the sigmoid activation function to the weighted sum
                 a = self.sigmoid(z)
-                # Append the activation to the list of activations
                 activations.append(a)
-                # Append the weighted sum to the list of zs
                 zs.append(z)
 
-            # Compute the error
+            # Backpropagation
             error = activations[-1] - y
-            logging.debug(f"Error: {error}")
-            # Append the mean absolute error to the list of errors
             errors.append(np.mean(np.abs(error)))
 
-            # Backpropagation
-            # Compute the delta for the output layer
             delta = error * self.sigmoid_derivative(activations[-1])
-            # Loop through each layer in reverse order
-            for i in range(len(self.weights)-1, -1, -1):
-                # Update the weights for the current layer
+            for i in range(len(self.weights) - 1, -1, -1):
+                # Update weights and biases using gradient descent
                 self.weights[i] -= self.learning_rate * np.dot(activations[i].T, delta)
-                # Update the biases for the current layer
-                self.biases[i] -= self.learning_rate * np.sum(delta, axis=0, keepdims=True)
-                # Compute the delta for the current layer
-                delta = np.dot(delta, self.weights[i].T) * self.sigmoid_derivative(activations[i])
+                self.biases[i] -= self.learning_rate * np.sum(
+                    delta, axis=0, keepdims=True
+                )
+                if i != 0:
+                    delta = np.dot(delta, self.weights[i].T) * self.sigmoid_derivative(
+                        activations[i]
+                    )
 
-        # Return the list of errors for each epoch
         return errors
 
+    def visualise_errors(self, errors, mae, mse):
+        epochs = range(1, len(errors) + 1)
+        plt.figure(figsize=(10, 5))
 
-        
-        
+        # Plot Mean Absolute Error (MAE)
+        plt.subplot(1, 2, 1)
+        plt.plot(epochs, errors, "b.-")
+        plt.xlabel("Epoch")
+        plt.ylabel("MAE")
+        plt.title(f"Mean Absolute Error (MAE): {mae:.4f}")
+
+        # Plot Mean Squared Error (MSE)
+        plt.subplot(1, 2, 2)
+        plt.plot(epochs, [e**2 for e in errors], "r.-")
+        plt.xlabel("Epoch")
+        plt.ylabel("MSE")
+        plt.title(f"Mean Squared Error (MSE): {mse:.4f}")
+
+        plt.tight_layout()
+        plt.show()
+
     def predict(self, X):
         activations = [X]
         for i in range(len(self.weights)):
+            # Forward pass to make predictions
             z = np.dot(activations[-1], self.weights[i]) + self.biases[i]
             a = self.sigmoid(z)
             activations.append(a)
-        return activations[-1]    
-    
-    @staticmethod
-    def load(filename):
-        with open(filename, 'rb') as f:
-            nn = pickle.load(f)
-        return nn
-        
-        
-    def save(self, filename):
-        with open(filename, 'wb') as f:
-            pickle.dump(self, f)
-
-    @staticmethod
-    def run_neural_network_training(X_train, y_train, hidden_layer_sizes, epochs):
-        # Create a NeuralNetwork instance
-        input_shape = X_train.shape[1]
-        output_shape = 1
-        nn = NeuralNetwork(input_shape, hidden_layer_sizes, output_shape)
-
-        # Train the network
-        errors = nn.train(X_train, y_train, epochs)
-
-        return nn
+        return activations[-1]
